@@ -1,0 +1,5 @@
+The following problems were encountered while loading the config files:
+recipes.cfg 'add_shaped' #19: Problem while loading NBT: 'Unable to locate name/value separator for string: 0' for '0'.
+
+recipes.cfg 'add_shaped' #19: The following block or item doesn't seem to exist: 'b'.
+

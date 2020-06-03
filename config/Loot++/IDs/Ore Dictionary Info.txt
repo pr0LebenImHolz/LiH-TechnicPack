@@ -1,0 +1,7943 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+FC.Bass
+
+
+FC.BassCooked
+
+
+FC.Bluegill
+
+
+FC.BluegillCooked
+
+
+FC.Carp
+
+
+FC.CarpCooked
+
+
+FC.Catfish
+
+
+FC.CatfishCooked
+
+
+FC.Goldfish
+
+
+FC.GoldfishCooked
+
+
+FC.Peacock_Bass
+
+
+FC.Peacock_BassCooked
+
+
+FC.Pike
+
+
+FC.PikeCooked
+
+
+FC.Salmon
+
+
+FC.SalmonCooked
+
+
+FC.Small_Piranha
+
+
+FC.Small_PiranhaCooked
+
+
+FC.Suckerfish
+
+
+FC.SuckerfishCooked
+
+
+FC.Tuna_StripCooked
+
+
+FC.Tuna_StripRaw
+
+
+LightGray
+
+
+alumiteRod
+TConstruct:toolRod - 15
+
+
+antiBlock
+chisel:antiBlock - 0
+
+
+arditeRod
+TConstruct:toolRod - 11
+
+
+ashWood
+minecraft:coal - 1
+
+
+bakingEgg
+minecraft:egg - 0
+VeganOption:appleSauce - 0
+VeganOption:potatoStarch - 0
+harvestcraft:firmtofuItem - 0
+
+
+bambooAsper
+plantmegapack:bambooAsper - 0
+
+
+bambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobusta - 0
+
+
+bambooGiantTimber
+plantmegapack:bambooGiantTimber - 0
+
+
+bambooGolden
+plantmegapack:bambooGolden - 0
+
+
+bambooMoso
+plantmegapack:bambooMoso - 0
+
+
+bambooShortTassled
+plantmegapack:bambooShortTassled - 0
+
+
+bambooTimorBlack
+plantmegapack:bambooTimorBlack - 0
+
+
+bambooTropicalBlue
+plantmegapack:bambooTropicalBlue - 0
+
+
+bambooWetForest
+plantmegapack:bambooWetForest - 0
+
+
+beachButtonSage
+plantmegapack:beachButtonSage - 0
+
+
+beachHighTideBush
+plantmegapack:beachHighTideBush - 0
+
+
+beachPrideOfMadeira
+plantmegapack:beachPrideOfMadeira - 0
+
+
+beachSeaLavender
+plantmegapack:beachSeaLavender - 0
+
+
+beachSeaLymeGrass
+plantmegapack:beachSeaLymeGrass - 0
+
+
+beachSeaSandwort
+plantmegapack:beachSeaSandwort - 0
+
+
+beachShowyAster
+plantmegapack:beachShowyAster - 0
+
+
+beeQueen
+harvestcraft:queenbeeItem - 0
+
+
+berrybushBeauty
+plantmegapack:berrybushBeauty - 0
+
+
+berrybushBlack
+plantmegapack:berrybushBlack - 0
+
+
+berrybushBlue
+plantmegapack:berrybushBlue - 0
+
+
+berrybushElder
+plantmegapack:berrybushElder - 0
+
+
+berrybushGoose
+plantmegapack:berrybushGoose - 0
+
+
+berrybushHuckle
+plantmegapack:berrybushHuckle - 0
+
+
+berrybushOrange
+plantmegapack:berrybushOrange - 0
+
+
+berrybushSnow
+plantmegapack:berrybushSnow - 0
+
+
+berrybushStraw
+plantmegapack:berrybushStraw - 0
+
+
+blockAluminium
+TConstruct:MetalBlock - 6
+
+
+blockAluminiumBrass
+TConstruct:MetalBlock - 7
+
+
+blockAluminum
+TConstruct:MetalBlock - 6
+
+
+blockAluminumBrass
+TConstruct:MetalBlock - 7
+
+
+blockAlumite
+TConstruct:MetalBlock - 8
+
+
+blockAmber
+BiomesOPlenty:gemOre - 15
+
+
+blockAndesite
+chisel:andesite - 0
+
+
+blockArdite
+TConstruct:MetalBlock - 1
+
+
+blockBambooAsper
+plantmegapack:bambooAsperBlock - 0
+
+
+blockBambooAsperSlab
+plantmegapack:bambooAsperSlab - 0
+
+
+blockBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaBlock - 0
+
+
+blockBambooFargesiaRobustaSlab
+plantmegapack:bambooFargesiaRobustaSlab - 0
+
+
+blockBambooGiantTimber
+plantmegapack:bambooGiantTimberBlock - 0
+
+
+blockBambooGiantTimberSlab
+plantmegapack:bambooGiantTimberSlab - 0
+
+
+blockBambooGolden
+plantmegapack:bambooGoldenBlock - 0
+
+
+blockBambooGoldenSlab
+plantmegapack:bambooGoldenSlab - 0
+
+
+blockBambooMoso
+plantmegapack:bambooMosoBlock - 0
+
+
+blockBambooMosoSlab
+plantmegapack:bambooMosoSlab - 0
+
+
+blockBambooShortTassled
+plantmegapack:bambooShortTassledBlock - 0
+
+
+blockBambooShortTassledSlab
+plantmegapack:bambooShortTassledSlab - 0
+
+
+blockBambooTimorBlack
+plantmegapack:bambooTimorBlackBlock - 0
+
+
+blockBambooTimorBlackSlab
+plantmegapack:bambooTimorBlackSlab - 0
+
+
+blockBambooTropicalBlue
+plantmegapack:bambooTropicalBlueBlock - 0
+
+
+blockBambooTropicalBlueSlab
+plantmegapack:bambooTropicalBlueSlab - 0
+
+
+blockBambooWetForest
+plantmegapack:bambooWetForestBlock - 0
+
+
+blockBambooWetForestSlab
+plantmegapack:bambooWetForestSlab - 0
+
+
+blockBronze
+TConstruct:MetalBlock - 4
+
+
+blockCarpet
+chisel:carpet_block - 0
+
+
+blockCharcoal
+GardenStuff:stone_block - 0
+
+
+blockCoal
+minecraft:coal_block - 0
+
+
+blockCobalt
+TConstruct:MetalBlock - 0
+
+
+blockCopper
+TConstruct:MetalBlock - 3
+
+
+blockDiamond
+minecraft:diamond_block - 0
+
+
+blockDiorite
+chisel:diorite - 0
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockEnder
+TConstruct:MetalBlock - 10
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+TConstruct:GlassBlock - 0
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+
+
+blockGlue
+
+
+blockGold
+minecraft:gold_block - 0
+
+
+blockGranite
+chisel:granite - 0
+
+
+blockIron
+minecraft:iron_block - 0
+
+
+blockLapis
+minecraft:lapis_block - 0
+
+
+blockMalachite
+BiomesOPlenty:gemOre - 11
+
+
+blockManyullyn
+TConstruct:MetalBlock - 2
+
+
+blockMarble
+chisel:marble - 0
+
+
+blockMeatRaw
+BiomesOPlenty:flesh - 0
+
+
+blockNaturalAluminum
+
+
+blockObsidian
+
+
+blockPeridot
+BiomesOPlenty:gemOre - 5
+
+
+blockPigIron
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+blockRubber
+TConstruct:GlueBlock - 0
+
+
+blockRuby
+BiomesOPlenty:gemOre - 3
+
+
+blockSapphire
+BiomesOPlenty:gemOre - 13
+
+
+blockSteel
+TConstruct:MetalBlock - 9
+
+
+blockTanzanite
+BiomesOPlenty:gemOre - 9
+
+
+blockTin
+TConstruct:MetalBlock - 5
+
+
+blockTopaz
+BiomesOPlenty:gemOre - 7
+
+
+blockTorch
+minecraft:torch - 0
+harvestcraft:pamcandleDeco1 - 0
+harvestcraft:pamcandleDeco2 - 0
+harvestcraft:pamcandleDeco3 - 0
+harvestcraft:pamcandleDeco4 - 0
+harvestcraft:pamcandleDeco5 - 0
+harvestcraft:pamcandleDeco6 - 0
+harvestcraft:pamcandleDeco7 - 0
+harvestcraft:pamcandleDeco8 - 0
+harvestcraft:pamcandleDeco9 - 0
+harvestcraft:pamcandleDeco10 - 0
+harvestcraft:pamcandleDeco11 - 0
+harvestcraft:pamcandleDeco12 - 0
+harvestcraft:pamcandleDeco13 - 0
+harvestcraft:pamcandleDeco14 - 0
+harvestcraft:pamcandleDeco15 - 0
+harvestcraft:pamcandleDeco16 - 0
+
+
+blockWaterstone
+chisel:waterstone - 0
+
+
+blockWoolBlack
+minecraft:wool - 15
+
+
+blockWoolBlue
+minecraft:wool - 11
+
+
+blockWoolBrown
+minecraft:wool - 12
+
+
+blockWoolCyan
+minecraft:wool - 9
+
+
+blockWoolGray
+minecraft:wool - 7
+
+
+blockWoolGreen
+minecraft:wool - 13
+
+
+blockWoolLightBlue
+minecraft:wool - 3
+
+
+blockWoolLightGray
+minecraft:wool - 8
+
+
+blockWoolLime
+minecraft:wool - 5
+
+
+blockWoolMagenta
+minecraft:wool - 2
+
+
+blockWoolOrange
+minecraft:wool - 1
+
+
+blockWoolPink
+minecraft:wool - 6
+
+
+blockWoolPurple
+minecraft:wool - 10
+
+
+blockWoolRed
+minecraft:wool - 14
+
+
+blockWoolWhite
+minecraft:wool - 0
+
+
+blockWoolYellow
+minecraft:wool - 4
+
+
+blockWroughtIron
+GardenStuff:metal_block - 0
+
+
+blueslimeRod
+TConstruct:toolRod - 17
+
+
+boneRod
+TConstruct:toolRod - 5
+
+
+bronzeRod
+TConstruct:toolRod - 14
+
+
+cactusArmatocereusMatucanensis
+plantmegapack:cactusArmatocereusMatucanensis - 0
+
+
+cactusBaseballBat
+plantmegapack:cactusBaseballBat - 0
+
+
+cactusEchinocereusMetornii
+plantmegapack:cactusEchinocereusMetornii - 0
+
+
+cactusGoldenCereus
+plantmegapack:cactusGoldenCereus - 0
+
+
+cactusGoldenSaguaro
+plantmegapack:cactusGoldenSaguaro - 0
+
+
+cactusMatucanaAureiflora
+plantmegapack:cactusMatucanaAureiflora - 0
+
+
+cactusPricklyPear
+plantmegapack:cactusPricklyPear - 0
+
+
+cactusRod
+TConstruct:toolRod - 4
+
+
+cactusSnowPole
+plantmegapack:cactusSnowPole - 0
+
+
+cactusToothpick
+plantmegapack:cactusToothpick - 0
+
+
+carpet
+chisel:carpet - 0
+
+
+chestWood
+minecraft:chest - 0
+
+
+chipsetComp
+BuildCraft|Silicon:redstoneChipset - 6
+
+
+chipsetDiamond
+BuildCraft|Silicon:redstoneChipset - 3
+
+
+chipsetEmerald
+BuildCraft|Silicon:redstoneChipset - 7
+
+
+chipsetGold
+BuildCraft|Silicon:redstoneChipset - 2
+
+
+chipsetIron
+BuildCraft|Silicon:redstoneChipset - 1
+
+
+chipsetPulsating
+BuildCraft|Silicon:redstoneChipset - 4
+
+
+chipsetQuartz
+BuildCraft|Silicon:redstoneChipset - 5
+
+
+chipsetRed
+BuildCraft|Silicon:redstoneChipset - 0
+
+
+cloud
+chisel:cloud - 0
+
+
+clusterCinnabar
+Thaumcraft:ItemNugget - 21
+
+
+clusterCopper
+Thaumcraft:ItemNugget - 17
+
+
+clusterGold
+Thaumcraft:ItemNugget - 31
+
+
+clusterIron
+Thaumcraft:ItemNugget - 16
+
+
+clusterLead
+Thaumcraft:ItemNugget - 20
+
+
+clusterSilver
+Thaumcraft:ItemNugget - 19
+
+
+clusterTin
+Thaumcraft:ItemNugget - 18
+
+
+cobaltRod
+TConstruct:toolRod - 10
+
+
+cobblestone
+minecraft:cobblestone - 0
+UndergroundBiomes:igneousCobblestone - any
+UndergroundBiomes:metamorphicCobblestone - any
+minecraft:cobblestone - any
+
+
+compressedCobblestone1x
+
+
+compressedCobblestone2x
+
+
+compressedCobblestone3x
+
+
+compressedCobblestone4x
+
+
+compressedGravel1x
+
+
+compressedGravel2x
+
+
+compressedSand1x
+
+
+compressedSand2x
+
+
+concrete
+chisel:concrete - 0
+
+
+copperRod
+TConstruct:toolRod - 13
+
+
+coralBlueStaghorn
+plantmegapack:coralBlueStaghorn - 0
+
+
+coralElegance
+plantmegapack:coralElegance - 0
+
+
+coralFeatheredHydroid
+plantmegapack:coralFeatheredHydroid - 0
+
+
+coralPillar
+plantmegapack:coralPillar - 0
+
+
+coralSunPolyps
+plantmegapack:coralSunPolyps - 0
+
+
+crafterWood
+minecraft:crafting_table - 0
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropASparagus
+
+
+cropAlmond
+harvestcraft:almondItem - 0
+
+
+cropApple
+minecraft:apple - 0
+
+
+cropApricot
+harvestcraft:apricotItem - 0
+
+
+cropArtichoke
+harvestcraft:artichokeItem - 0
+
+
+cropAsparagus
+harvestcraft:asparagusItem - 0
+
+
+cropAvocado
+harvestcraft:avocadoItem - 0
+
+
+cropBambooshoot
+harvestcraft:bambooshootItem - 0
+
+
+cropBanana
+harvestcraft:bananaItem - 0
+
+
+cropBarley
+harvestcraft:barleyItem - 0
+
+
+cropBean
+harvestcraft:beanItem - 0
+
+
+cropBeet
+harvestcraft:beetItem - 0
+plantmegapack:cropBeet - 0
+
+
+cropBellPepperOrange
+plantmegapack:cropBellPepperOrange - 0
+
+
+cropBellPepperRed
+plantmegapack:cropBellPepperRed - 0
+
+
+cropBellPepperYellow
+plantmegapack:cropBellPepperYellow - 0
+
+
+cropBellpepper
+harvestcraft:bellpepperItem - 0
+
+
+cropBlackberry
+harvestcraft:blackberryItem - 0
+
+
+cropBlueberry
+harvestcraft:blueberryItem - 0
+
+
+cropBroccoli
+harvestcraft:broccoliItem - 0
+plantmegapack:cropBroccoli - 0
+
+
+cropBrusselsprout
+harvestcraft:brusselsproutItem - 0
+
+
+cropCabbage
+harvestcraft:cabbageItem - 0
+
+
+cropCactusfruit
+harvestcraft:cactusfruitItem - 0
+
+
+cropCandle
+harvestcraft:candleberryItem - 0
+
+
+cropCandleberry
+harvestcraft:candleberryItem - 0
+
+
+cropCantaloupe
+harvestcraft:cantaloupeItem - 0
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropCashew
+harvestcraft:cashewItem - 0
+
+
+cropCassava
+plantmegapack:cropCassava - 0
+
+
+cropCauliflower
+harvestcraft:cauliflowerItem - 0
+
+
+cropCelery
+harvestcraft:celeryItem - 0
+plantmegapack:cropCelery - 0
+
+
+cropCentella
+plantmegapack:cropCentella - 0
+
+
+cropCherry
+harvestcraft:cherryItem - 0
+
+
+cropChestnut
+harvestcraft:chestnutItem - 0
+
+
+cropChilipepper
+harvestcraft:chilipepperItem - 0
+
+
+cropCinnamon
+harvestcraft:cinnamonItem - 0
+
+
+cropCoconut
+harvestcraft:coconutItem - 0
+
+
+cropCoffee
+harvestcraft:coffeebeanItem - 0
+
+
+cropCorn
+harvestcraft:cornItem - 0
+plantmegapack:cropCorn - 0
+
+
+cropCotton
+harvestcraft:cottonItem - 0
+
+
+cropCranberry
+harvestcraft:cranberryItem - 0
+
+
+cropCucumber
+harvestcraft:cucumberItem - 0
+plantmegapack:cropCucumber - 0
+
+
+cropCurryleaf
+harvestcraft:curryleafItem - 0
+
+
+cropDate
+harvestcraft:dateItem - 0
+
+
+cropDragonfruit
+harvestcraft:dragonfruitItem - 0
+
+
+cropDurian
+harvestcraft:durianItem - 0
+
+
+cropEdibleroot
+harvestcraft:ediblerootItem - 0
+
+
+cropEggplant
+harvestcraft:eggplantItem - 0
+plantmegapack:cropEggplant - 0
+
+
+cropFig
+harvestcraft:figItem - 0
+
+
+cropGarlic
+harvestcraft:garlicItem - 0
+
+
+cropGinger
+harvestcraft:gingerItem - 0
+
+
+cropGooseberry
+harvestcraft:gooseberryItem - 0
+
+
+cropGrape
+harvestcraft:grapeItem - 0
+
+
+cropGrapefruit
+harvestcraft:grapefruitItem - 0
+
+
+cropGreenBeans
+plantmegapack:cropGreenBeans - 0
+
+
+cropKiwi
+harvestcraft:kiwiItem - 0
+
+
+cropLaksaLeaf
+plantmegapack:cropLaksaLeaf - 0
+
+
+cropLeek
+harvestcraft:leekItem - 0
+plantmegapack:cropLeek - 0
+
+
+cropLemon
+harvestcraft:lemonItem - 0
+
+
+cropLettuce
+harvestcraft:lettuceItem - 0
+plantmegapack:cropLettuce - 0
+
+
+cropLime
+harvestcraft:limeItem - 0
+
+
+cropMango
+harvestcraft:mangoItem - 0
+
+
+cropMaplesyrup
+harvestcraft:maplesyrupItem - 0
+
+
+cropMustard
+harvestcraft:mustardseedsItem - 0
+
+
+cropNutmeg
+harvestcraft:nutmegItem - 0
+
+
+cropOats
+harvestcraft:oatsItem - 0
+
+
+cropOkra
+harvestcraft:okraItem - 0
+
+
+cropOlive
+harvestcraft:oliveItem - 0
+
+
+cropOnion
+harvestcraft:onionItem - 0
+plantmegapack:cropOnion - 0
+
+
+cropOrange
+harvestcraft:orangeItem - 0
+
+
+cropPapaya
+harvestcraft:papayaItem - 0
+
+
+cropParsnip
+harvestcraft:parsnipItem - 0
+
+
+cropPeach
+BiomesOPlenty:food - 3
+harvestcraft:peachItem - 0
+
+
+cropPeanut
+harvestcraft:peanutItem - 0
+plantmegapack:cropPeanut - 0
+
+
+cropPear
+BiomesOPlenty:food - 12
+harvestcraft:pearItem - 0
+
+
+cropPeas
+harvestcraft:peasItem - 0
+
+
+cropPecan
+harvestcraft:pecanItem - 0
+
+
+cropPeppercorn
+harvestcraft:peppercornItem - 0
+
+
+cropPersimmon
+BiomesOPlenty:food - 8
+harvestcraft:persimmonItem - 0
+
+
+cropPineapple
+harvestcraft:pineappleItem - 0
+
+
+cropPistachio
+harvestcraft:pistachioItem - 0
+
+
+cropPlum
+harvestcraft:plumItem - 0
+
+
+cropPomegranate
+harvestcraft:pomegranateItem - 0
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropPumpkin
+minecraft:pumpkin - 0
+
+
+cropRadish
+harvestcraft:radishItem - 0
+
+
+cropRaspberry
+harvestcraft:raspberryItem - 0
+
+
+cropRhubarb
+harvestcraft:rhubarbItem - 0
+
+
+cropRice
+harvestcraft:riceItem - 0
+plantmegapack:cropRice - 0
+
+
+cropRutabaga
+harvestcraft:rutabagaItem - 0
+
+
+cropRye
+harvestcraft:ryeItem - 0
+
+
+cropSacredLotus
+plantmegapack:cropSacredLotus - 0
+
+
+cropScallion
+harvestcraft:scallionItem - 0
+
+
+cropSeaweed
+harvestcraft:seaweedItem - 0
+
+
+cropSesame
+harvestcraft:sesameseedsItem - 0
+
+
+cropSorrel
+plantmegapack:cropSorrel - 0
+
+
+cropSoybean
+harvestcraft:soybeanItem - 0
+
+
+cropSpiceleaf
+harvestcraft:spiceleafItem - 0
+
+
+cropSpinach
+harvestcraft:spinachItem - 0
+plantmegapack:cropSpinach - 0
+
+
+cropStarfruit
+harvestcraft:starfruitItem - 0
+
+
+cropStrawberry
+ExtrabiomesXL:extrabiomes.crop - 0
+harvestcraft:strawberryItem - 0
+
+
+cropSunflower
+harvestcraft:sunflowerseedsItem - 0
+VeganOption:seedSunflower - 0
+BiomesOPlenty:food - 3
+
+
+cropSweetpotato
+harvestcraft:sweetpotatoItem - 0
+
+
+cropTaro
+plantmegapack:cropTaro - 0
+
+
+cropTea
+harvestcraft:tealeafItem - 0
+
+
+cropTomato
+harvestcraft:tomatoItem - 0
+plantmegapack:cropTomato - 0
+
+
+cropTurnip
+BiomesOPlenty:food - 11
+harvestcraft:turnipItem - 0
+
+
+cropVanillabean
+harvestcraft:vanillabeanItem - 0
+
+
+cropWalnut
+harvestcraft:walnutItem - 0
+
+
+cropWasabi
+plantmegapack:cropWasabi - 0
+
+
+cropWaterSpinach
+plantmegapack:cropWaterSpinach - 0
+
+
+cropWaterchestnut
+harvestcraft:waterchestnutItem - 0
+
+
+cropWatercress
+plantmegapack:cropWatercress - 0
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+cropWhitemushroom
+harvestcraft:whitemushroomItem - 0
+
+
+cropWildRice
+plantmegapack:cropWildRice - 0
+
+
+cropWildcarrots
+BiomesOPlenty:food - 2
+
+
+cropWintersquash
+harvestcraft:wintersquashItem - 0
+
+
+cropZucchini
+harvestcraft:zucchiniItem - 0
+
+
+crystalRedstone
+BuildCraft|Silicon:redstoneCrystal - 0
+
+
+crystallineAluminum
+
+
+crystallineAluminumBrass
+
+
+crystallineAlumite
+
+
+crystallineArdite
+
+
+crystallineBronze
+
+
+crystallineCobalt
+
+
+crystallineCopper
+
+
+crystallineGlue
+
+
+crystallineGold
+
+
+crystallineIron
+
+
+crystallineManyullyn
+
+
+crystallineNaturalAluminum
+
+
+crystallineObsidian
+
+
+crystallinePigIron
+
+
+crystallineSteel
+
+
+crystallineTin
+
+
+denseoreAluminum
+
+
+denseoreAluminumBrass
+
+
+denseoreAlumite
+
+
+denseoreArdite
+
+
+denseoreBronze
+
+
+denseoreCobalt
+
+
+denseoreCopper
+
+
+denseoreGlue
+
+
+denseoreGold
+
+
+denseoreIron
+
+
+denseoreManyullyn
+
+
+denseoreNaturalAluminum
+
+
+denseorePigIron
+
+
+denseoreSteel
+
+
+denseoreTin
+
+
+desertApachePlume
+plantmegapack:desertApachePlume - 0
+
+
+desertBrittlebush
+plantmegapack:desertBrittlebush - 0
+
+
+desertBroadLeafGilia
+plantmegapack:desertBroadLeafGilia - 0
+
+
+desertBroomSnakeweed
+plantmegapack:desertBroomSnakeweed - 0
+
+
+desertKangarooPaw
+plantmegapack:desertKangarooPaw - 0
+
+
+desertOcotillo
+plantmegapack:desertOcotillo - 0
+
+
+desertPeninsulaOnion
+plantmegapack:desertPeninsulaOnion - 0
+
+
+desertSeepwood
+plantmegapack:desertSeepwood - 0
+
+
+desertWhiteSage
+plantmegapack:desertWhiteSage - 0
+
+
+dirt
+chisel:dirt - 0
+
+
+doorBambooAsper
+plantmegapack:bambooAsperDoor - 0
+
+
+doorBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaDoor - 0
+
+
+doorBambooGiantTimber
+plantmegapack:bambooGiantTimberDoor - 0
+
+
+doorBambooGolden
+plantmegapack:bambooGoldenDoor - 0
+
+
+doorBambooMoso
+plantmegapack:bambooMosoDoor - 0
+
+
+doorBambooShortTassled
+plantmegapack:bambooShortTassledDoor - 0
+
+
+doorBambooTimorBlack
+plantmegapack:bambooTimorBlackDoor - 0
+
+
+doorBambooTropicalBlue
+plantmegapack:bambooTropicalBlueDoor - 0
+
+
+doorBambooWetForest
+plantmegapack:bambooWetForestDoor - 0
+
+
+drawerBasic
+StorageDrawers:fullDrawers1 - any
+StorageDrawers:fullDrawers2 - any
+StorageDrawers:fullDrawers4 - any
+StorageDrawers:halfDrawers2 - any
+StorageDrawers:halfDrawers4 - any
+dendrology:fullDrawers1 - any
+dendrology:fullDrawers2 - any
+dendrology:fullDrawers4 - any
+dendrology:halfDrawers2 - any
+dendrology:halfDrawers4 - any
+StorageDrawersBop:fullDrawers1 - any
+StorageDrawersBop:fullDrawers2 - any
+StorageDrawersBop:fullDrawers4 - any
+StorageDrawersBop:halfDrawers2 - any
+StorageDrawersBop:halfDrawers4 - any
+
+
+dropHoney
+harvestcraft:honeyItem - 0
+
+
+dustAluminium
+TConstruct:materials - 40
+
+
+dustAluminiumBrass
+TConstruct:materials - 42
+
+
+dustAluminum
+TConstruct:materials - 40
+
+
+dustAluminumBrass
+TConstruct:materials - 42
+
+
+dustAlumite
+
+
+dustArdite
+TConstruct:materials - 38
+
+
+dustBrass
+
+
+dustBronze
+
+
+dustCobalt
+TConstruct:materials - 39
+
+
+dustCopper
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGlue
+
+
+dustGold
+
+
+dustIron
+
+
+dustLead
+
+
+dustManyullyn
+TConstruct:materials - 41
+
+
+dustNaturalAluminum
+
+
+dustObsidian
+
+
+dustPigIron
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustSalt
+harvestcraft:saltItem - 0
+
+
+dustSaltpeter
+VeganOption:saltpeter - 0
+
+
+dustSilver
+
+
+dustSteel
+
+
+dustSulfur
+VeganOption:sulfur - 0
+
+
+dustTin
+
+
+dustWood
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+BiomesOPlenty:misc - 9
+ExtrabiomesXL:extrabiomes.dye - 0
+VeganOption:inkVegetableOilBlack - 0
+
+
+dyeBlue
+minecraft:dye - 4
+BiomesOPlenty:misc - 5
+ExtrabiomesXL:extrabiomes.dye - 1
+
+
+dyeBrown
+minecraft:dye - 3
+BiomesOPlenty:misc - 6
+ExtrabiomesXL:extrabiomes.dye - 2
+VeganOption:fertilizer - 0
+
+
+dyeCyan
+minecraft:dye - 6
+
+
+dyeGray
+minecraft:dye - 8
+
+
+dyeGreen
+minecraft:dye - 2
+BiomesOPlenty:misc - 7
+
+
+dyeLightBlue
+minecraft:dye - 12
+
+
+dyeLightGray
+minecraft:dye - 7
+
+
+dyeLime
+minecraft:dye - 10
+
+
+dyeMagenta
+minecraft:dye - 13
+
+
+dyeOrange
+minecraft:dye - 14
+
+
+dyePink
+minecraft:dye - 9
+
+
+dyePurple
+minecraft:dye - 5
+
+
+dyeRed
+minecraft:dye - 1
+
+
+dyeWhite
+minecraft:dye - 15
+BiomesOPlenty:misc - 8
+ExtrabiomesXL:extrabiomes.dye - 3
+VeganOption:inkVegetableOilWhite - 0
+
+
+dyeYellow
+minecraft:dye - 11
+
+
+epiphyteApacheDwarf
+plantmegapack:epiphyteApacheDwarf - 0
+
+
+epiphyteArtistsConk
+plantmegapack:epiphyteArtistsConk - 0
+
+
+epiphyteClimbingCactus
+plantmegapack:epiphyteClimbingCactus - 0
+
+
+epiphyteCreepingMistletoe
+plantmegapack:epiphyteCreepingMistletoe - 0
+
+
+epiphyteCrimsonCattleya
+plantmegapack:epiphyteCrimsonCattleya - 0
+
+
+epiphyteCuthbertsDendrobium
+plantmegapack:epiphyteCuthbertsDendrobium - 0
+
+
+epiphyteFishBoneCactus
+plantmegapack:epiphyteFishBoneCactus - 0
+
+
+epiphyteFragrantFern
+plantmegapack:epiphyteFragrantFern - 0
+
+
+epiphyteHarlequinMistletoe
+plantmegapack:epiphyteHarlequinMistletoe - 0
+
+
+epiphyteKingOrchid
+plantmegapack:epiphyteKingOrchid - 0
+
+
+epiphyteLanternForest
+plantmegapack:epiphyteLanternForest - 0
+
+
+epiphyteLargeFootDendrobium
+plantmegapack:epiphyteLargeFootDendrobium - 0
+
+
+epiphyteMistletoe
+plantmegapack:epiphyteMistletoe - 0
+
+
+epiphyteSulphurShelf
+plantmegapack:epiphyteSulphurShelf - 0
+
+
+epiphyteTampaOrchid
+plantmegapack:epiphyteTampaOrchid - 0
+
+
+epiphyteTillandsiaIonantha
+plantmegapack:epiphyteTillandsiaIonantha - 0
+
+
+epiphyteTurkeyTail
+plantmegapack:epiphyteTurkeyTail - 0
+
+
+epiphyteWildfire
+plantmegapack:epiphyteWildfire - 0
+
+
+fenceBambooAsper
+plantmegapack:bambooAsperFence - 0
+
+
+fenceBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaFence - 0
+
+
+fenceBambooGiantTimber
+plantmegapack:bambooGiantTimberFence - 0
+
+
+fenceBambooGolden
+plantmegapack:bambooGoldenFence - 0
+
+
+fenceBambooMoso
+plantmegapack:bambooMosoFence - 0
+
+
+fenceBambooShortTassled
+plantmegapack:bambooShortTassledFence - 0
+
+
+fenceBambooTimorBlack
+plantmegapack:bambooTimorBlackFence - 0
+
+
+fenceBambooTropicalBlue
+plantmegapack:bambooTropicalBlueFence - 0
+
+
+fenceBambooWetForest
+plantmegapack:bambooWetForestFence - 0
+
+
+fernCretanBrake
+plantmegapack:fernCretanBrake - 0
+
+
+fernDwarfPalmetto
+plantmegapack:fernDwarfPalmetto - 0
+
+
+fernHayScented
+plantmegapack:fernHayScented - 0
+
+
+fernKangaroo
+plantmegapack:fernKangaroo - 0
+
+
+fernMaidenhairSpleenwort
+plantmegapack:fernMaidenhairSpleenwort - 0
+
+
+fernOstrich
+plantmegapack:fernOstrich - 0
+
+
+fernScalyTree
+plantmegapack:fernScalyTree - 0
+
+
+fernSword
+plantmegapack:fernSword - 0
+
+
+fernWoodsia
+plantmegapack:fernWoodsia - 0
+
+
+fertilizerOrganic
+VeganOption:fertilizer - 0
+
+
+fishtrapBait
+harvestcraft:fishtrapbaitItem - 0
+
+
+flintRod
+TConstruct:toolRod - 3
+
+
+floatingDuckweed
+plantmegapack:floatingDuckweed - 0
+
+
+floatingRedRootFloater
+plantmegapack:floatingRedRootFloater - 0
+
+
+floatingWaterChestnut
+plantmegapack:floatingWaterChestnut - 0
+
+
+floatingWaterHyacinth
+plantmegapack:floatingWaterHyacinth - 0
+
+
+floatingWaterLettuce
+plantmegapack:floatingWaterLettuce - 0
+
+
+floatingWaterLily
+plantmegapack:floatingWaterLily - 0
+
+
+flourEqualswheat
+minecraft:wheat - 0
+harvestcraft:flourItem - 0
+
+
+flowerAchillea
+plantmegapack:flowerAchillea - 0
+
+
+flowerAlpineThistle
+plantmegapack:flowerAlpineThistle - 0
+
+
+flowerAzalea
+plantmegapack:flowerAzalea - 0
+
+
+flowerBegonia
+plantmegapack:flowerBegonia - 0
+
+
+flowerBell
+plantmegapack:flowerBell - 0
+
+
+flowerBirdofParadise
+plantmegapack:flowerBirdofParadise - 0
+
+
+flowerBlack
+
+
+flowerBlue
+
+
+flowerBlueStar
+plantmegapack:flowerBlueStar - 0
+
+
+flowerBrown
+
+
+flowerBurningLove
+plantmegapack:flowerBurningLove - 0
+
+
+flowerCandelabraAloe
+plantmegapack:flowerCandelabraAloe - 0
+
+
+flowerCarnation
+plantmegapack:flowerCarnation - 0
+
+
+flowerCelosia
+plantmegapack:flowerCelosia - 0
+
+
+flowerColumbine
+plantmegapack:flowerColumbine - 0
+
+
+flowerCyan
+
+
+flowerDahlia
+plantmegapack:flowerDahlia - 0
+
+
+flowerDaisy
+plantmegapack:flowerDaisy - 0
+
+
+flowerDandelion
+plantmegapack:flowerDandelion - 0
+
+
+flowerDarkgrey
+
+
+flowerDelphinium
+plantmegapack:flowerDelphinium - 0
+
+
+flowerDottedBlazingstar
+plantmegapack:flowerDottedBlazingstar - 0
+
+
+flowerElephantEars
+plantmegapack:flowerElephantEars - 0
+
+
+flowerFoamFlower
+plantmegapack:flowerFoamFlower - 0
+
+
+flowerFuchsia
+plantmegapack:flowerFuchsia - 0
+
+
+flowerGeranium
+plantmegapack:flowerGeranium - 0
+
+
+flowerGladiolus
+plantmegapack:flowerGladiolus - 0
+
+
+flowerGreen
+
+
+flowerHawkweed
+plantmegapack:flowerHawkweed - 0
+
+
+flowerHydrangea
+plantmegapack:flowerHydrangea - 0
+
+
+flowerJacobsLadder
+plantmegapack:flowerJacobsLadder - 0
+
+
+flowerLightblue
+
+
+flowerLightgrey
+
+
+flowerLily
+plantmegapack:flowerLily - 0
+
+
+flowerLime
+
+
+flowerLionsTail
+plantmegapack:flowerLionsTail - 0
+
+
+flowerLupine
+plantmegapack:flowerLupine - 0
+
+
+flowerMagenta
+
+
+flowerMarigold
+plantmegapack:flowerMarigold - 0
+
+
+flowerMediterraneanSeaHolly
+plantmegapack:flowerMediterraneanSeaHolly - 0
+
+
+flowerMezereon
+plantmegapack:flowerMezereon - 0
+
+
+flowerNemesia
+plantmegapack:flowerNemesia - 0
+
+
+flowerNewGuineaImpatiens
+plantmegapack:flowerNewGuineaImpatiens - 0
+
+
+flowerOrange
+
+
+flowerParrotsBeak
+plantmegapack:flowerParrotsBeak - 0
+
+
+flowerPeruvianLily
+plantmegapack:flowerPeruvianLily - 0
+
+
+flowerPink
+
+
+flowerPurple
+
+
+flowerPurpleConeflower
+plantmegapack:flowerPurpleConeflower - 0
+
+
+flowerQuinoa
+plantmegapack:flowerQuinoa - 0
+
+
+flowerRed
+minecraft:red_flower - 0
+
+
+flowerRose
+plantmegapack:flowerRose - 0
+
+
+flowerRoseCampion
+plantmegapack:flowerRoseCampion - 0
+
+
+flowerStreamsideBluebells
+plantmegapack:flowerStreamsideBluebells - 0
+
+
+flowerTorchLily
+plantmegapack:flowerTorchLily - 0
+
+
+flowerTulip
+plantmegapack:flowerTulip - 0
+
+
+flowerViolet
+plantmegapack:flowerViolet - 0
+
+
+flowerWildCarrot
+plantmegapack:flowerWildCarrot - 0
+
+
+flowerWildDaffodil
+plantmegapack:flowerWildDaffodil - 0
+
+
+flowerWoodlandPinkroot
+plantmegapack:flowerWoodlandPinkroot - 0
+
+
+flowerYellow
+minecraft:yellow_flower - 0
+
+
+flowerYellowToadflax
+plantmegapack:flowerYellowToadflax - 0
+
+
+foodAlmondbutter
+harvestcraft:almondbutterItem - 0
+
+
+foodAmbrosia
+BiomesOPlenty:food - 10
+
+
+foodAnchovyraw
+harvestcraft:anchovyrawItem - 0
+
+
+foodApplecider
+harvestcraft:appleciderItem - 0
+
+
+foodApplejelly
+harvestcraft:applejellyItem - 0
+
+
+foodApplejellysandwich
+harvestcraft:applejellysandwichItem - 0
+
+
+foodApplejuice
+harvestcraft:applejuiceItem - 0
+
+
+foodApplepie
+harvestcraft:applepieItem - 0
+
+
+foodApplesauce
+harvestcraft:applesauceItem - 0
+
+
+foodApplesmoothie
+harvestcraft:applesmoothieItem - 0
+
+
+foodAppleyogurt
+harvestcraft:appleyogurtItem - 0
+
+
+foodApricotglazedpork
+harvestcraft:apricotglazedporkItem - 0
+
+
+foodApricotjelly
+harvestcraft:apricotjellyItem - 0
+
+
+foodApricotjellysandwich
+harvestcraft:apricotjellysandwichItem - 0
+
+
+foodApricotjuice
+harvestcraft:apricotjuiceItem - 0
+
+
+foodApricotsmoothie
+harvestcraft:apricotsmoothieItem - 0
+
+
+foodApricotyogurt
+harvestcraft:apricotyogurtItem - 0
+
+
+foodAsparagusquiche
+harvestcraft:asparagusquicheItem - 0
+
+
+foodAsparagussoup
+harvestcraft:asparagussoupItem - 0
+
+
+foodAvocadoburrito
+harvestcraft:avocadoburritoItem - 0
+
+
+foodBBQSauce
+VeganOption:bbqSauce - 0
+
+
+foodBaconcheeseburger
+harvestcraft:baconcheeseburgerItem - 0
+
+
+foodBaconmushroomburger
+harvestcraft:baconmushroomburgerItem - 0
+
+
+foodBaconwrappeddates
+harvestcraft:baconwrappeddatesItem - 0
+
+
+foodBakedbeans
+harvestcraft:bakedbeansItem - 0
+
+
+foodBakedbeets
+harvestcraft:bakedbeetsItem - 0
+
+
+foodBakedham
+harvestcraft:bakedhamItem - 0
+
+
+foodBakedturnips
+harvestcraft:bakedturnipsItem - 0
+
+
+foodBaklava
+harvestcraft:baklavaItem - 0
+
+
+foodBamboosteamedrice
+harvestcraft:bamboosteamedriceItem - 0
+
+
+foodBananamilkshake
+harvestcraft:bananamilkshakeItem - 0
+
+
+foodBanananutbread
+harvestcraft:banananutbreadItem - 0
+
+
+foodBananasmoothie
+harvestcraft:bananasmoothieItem - 0
+
+
+foodBananasplit
+harvestcraft:bananasplitItem - 0
+
+
+foodBananayogurt
+harvestcraft:bananayogurtItem - 0
+
+
+foodBangersandmash
+harvestcraft:bangersandmashItem - 0
+
+
+foodBassraw
+harvestcraft:bassrawItem - 0
+
+
+foodBatter
+harvestcraft:batterItem - 0
+
+
+foodBatteredsausage
+harvestcraft:batteredsausageItem - 0
+
+
+foodBbqpulledpork
+harvestcraft:bbqpulledporkItem - 0
+
+
+foodBeanburrito
+harvestcraft:beanburritoItem - 0
+
+
+foodBeansandrice
+harvestcraft:beansandriceItem - 0
+
+
+foodBeansontoast
+harvestcraft:beansontoastItem - 0
+
+
+foodBeefjerky
+harvestcraft:beefjerkyItem - 0
+
+
+foodBeefwellington
+harvestcraft:beefwellingtonItem - 0
+
+
+foodBeetburger
+harvestcraft:beetburgerItem - 0
+
+
+foodBeetsalad
+harvestcraft:beetsaladItem - 0
+
+
+foodBeetsoup
+harvestcraft:beetsoupItem - 0
+
+
+foodBiscuit
+harvestcraft:biscuitItem - 0
+
+
+foodBlackberrycobbler
+harvestcraft:blackberrycobblerItem - 0
+
+
+foodBlackberryjelly
+harvestcraft:blackberryjellyItem - 0
+
+
+foodBlackberryjellysandwich
+harvestcraft:blackberryjellysandwichItem - 0
+
+
+foodBlackberryjuice
+harvestcraft:blackberryjuiceItem - 0
+
+
+foodBlackberrysmoothie
+harvestcraft:blackberrysmoothieItem - 0
+
+
+foodBlackberryyogurt
+harvestcraft:blackberryyogurtItem - 0
+
+
+foodBlackpepper
+harvestcraft:blackpepperItem - 0
+
+
+foodBlt
+harvestcraft:bltItem - 0
+
+
+foodBlueberryjelly
+harvestcraft:blueberryjellyItem - 0
+
+
+foodBlueberryjellysandwich
+harvestcraft:blueberryjellysandwichItem - 0
+
+
+foodBlueberryjuice
+harvestcraft:blueberryjuiceItem - 0
+
+
+foodBlueberrymuffin
+harvestcraft:blueberrymuffinItem - 0
+
+
+foodBlueberrypancakes
+harvestcraft:blueberrypancakesItem - 0
+
+
+foodBlueberrypie
+harvestcraft:blueberrypieItem - 0
+
+
+foodBlueberrysmoothie
+harvestcraft:blueberrysmoothieItem - 0
+
+
+foodBlueberryyogurt
+harvestcraft:blueberryyogurtItem - 0
+
+
+foodBoiledegg
+harvestcraft:boiledeggItem - 0
+
+
+foodBowlofrice
+BiomesOPlenty:food - 13
+
+
+foodBraisedonions
+harvestcraft:braisedonionsItem - 0
+
+
+foodBreadedporkchop
+harvestcraft:breadedporkchopItem - 0
+
+
+foodBroccolimac
+harvestcraft:broccolimacItem - 0
+
+
+foodBroccolindip
+harvestcraft:broccolindipItem - 0
+
+
+foodBrownie
+harvestcraft:brownieItem - 0
+
+
+foodBubblywater
+harvestcraft:bubblywaterItem - 0
+
+
+foodButter
+harvestcraft:butterItem - 0
+
+
+foodButteredpotato
+harvestcraft:butteredpotatoItem - 0
+
+
+foodCactusfruitjuice
+harvestcraft:cactusfruitjuiceItem - 0
+
+
+foodCactussoup
+harvestcraft:cactussoupItem - 0
+
+
+foodCalamaricooked
+harvestcraft:calamaricookedItem - 0
+
+
+foodCalamariraw
+harvestcraft:calamarirawItem - 0
+
+
+foodCaliforniaroll
+harvestcraft:californiarollItem - 0
+
+
+foodCandiedginger
+harvestcraft:candiedgingerItem - 0
+
+
+foodCandiedlemon
+harvestcraft:candiedlemonItem - 0
+
+
+foodCandiedsweetpotatoes
+harvestcraft:candiedsweetpotatoesItem - 0
+
+
+foodCandiedwalnuts
+harvestcraft:candiedwalnutsItem - 0
+
+
+foodCaramel
+harvestcraft:caramelItem - 0
+
+
+foodCaramelapple
+harvestcraft:caramelappleItem - 0
+
+
+foodCaramelicecream
+harvestcraft:caramelicecreamItem - 0
+
+
+foodCarpraw
+harvestcraft:carprawItem - 0
+
+
+foodCarrotcake
+harvestcraft:carrotcakeItem - 0
+
+
+foodCarrotjuice
+harvestcraft:carrotjuiceItem - 0
+
+
+foodCarrotsoup
+harvestcraft:carrotsoupItem - 0
+
+
+foodCashewbutter
+harvestcraft:cashewbutterItem - 0
+
+
+foodCashewchicken
+harvestcraft:cashewchickenItem - 0
+
+
+foodCatfishraw
+harvestcraft:catfishrawItem - 0
+
+
+foodCeasarsalad
+harvestcraft:ceasarsaladItem - 0
+
+
+foodCeleryandpeanutbutter
+harvestcraft:celeryandpeanutbutterItem - 0
+
+
+foodCelerysoup
+harvestcraft:celerysoupItem - 0
+
+
+foodChaitea
+harvestcraft:chaiteaItem - 0
+
+
+foodChaoscookie
+harvestcraft:chaoscookieItem - 0
+
+
+foodCharrraw
+harvestcraft:charrrawItem - 0
+
+
+foodCheese
+harvestcraft:cheeseItem - 0
+
+
+foodCheeseburger
+harvestcraft:cheeseburgerItem - 0
+
+
+foodCheesecake
+harvestcraft:cheesecakeItem - 0
+
+
+foodCheeseontoast
+harvestcraft:cheeseontoastItem - 0
+
+
+foodCherrycheesecake
+harvestcraft:cherrycheesecakeItem - 0
+
+
+foodCherrycoconutchocolatebar
+harvestcraft:cherrycoconutchocolatebarItem - 0
+
+
+foodCherryicecream
+harvestcraft:cherryicecreamItem - 0
+
+
+foodCherryjelly
+harvestcraft:cherryjellyItem - 0
+
+
+foodCherryjellysandwich
+harvestcraft:cherryjellysandwichItem - 0
+
+
+foodCherryjuice
+harvestcraft:cherryjuiceItem - 0
+
+
+foodCherrypie
+harvestcraft:cherrypieItem - 0
+
+
+foodCherrysmoothie
+harvestcraft:cherrysmoothieItem - 0
+
+
+foodCherrysoda
+harvestcraft:cherrysodaItem - 0
+
+
+foodCherryyogurt
+harvestcraft:cherryyogurtItem - 0
+
+
+foodChestnutbutter
+harvestcraft:chestnutbutterItem - 0
+
+
+foodChickencelerycasserole
+harvestcraft:chickencelerycasseroleItem - 0
+
+
+foodChickencurry
+harvestcraft:chickencurryItem - 0
+
+
+foodChickengumbo
+harvestcraft:chickengumboItem - 0
+
+
+foodChickennoodlesoup
+harvestcraft:chickennoodlesoupItem - 0
+
+
+foodChickenparmasan
+harvestcraft:chickenparmasanItem - 0
+
+
+foodChickenpotpie
+harvestcraft:chickenpotpieItem - 0
+
+
+foodChickensandwich
+harvestcraft:chickensandwichItem - 0
+
+
+foodChikoroll
+harvestcraft:chikorollItem - 0
+
+
+foodChili
+harvestcraft:chiliItem - 0
+
+
+foodChilichocolate
+harvestcraft:chilichocolateItem - 0
+
+
+foodChilipoppers
+harvestcraft:chilipoppersItem - 0
+
+
+foodChocolatebar
+harvestcraft:chocolatebarItem - 0
+
+
+foodChocolatecaramelfudge
+harvestcraft:chocolatecaramelfudgeItem - 0
+
+
+foodChocolatecherry
+harvestcraft:chocolatecherryItem - 0
+
+
+foodChocolatecookie
+harvestcraft:chocolatebaconItem - 0
+
+
+foodChocolatedonut
+harvestcraft:chocolatedonutItem - 0
+
+
+foodChocolateicecream
+harvestcraft:chocolateicecreamItem - 0
+
+
+foodChocolatemilk
+harvestcraft:chocolatemilkItem - 0
+
+
+foodChocolatemilkshake
+harvestcraft:chocolatemilkshakeItem - 0
+
+
+foodChocolateroll
+harvestcraft:chocolaterollItem - 0
+
+
+foodChocolatesprinklecake
+harvestcraft:chocolatesprinklecakeItem - 0
+
+
+foodChocolatestrawberry
+harvestcraft:chocolatestrawberryItem - 0
+
+
+foodChocolateyogurt
+harvestcraft:chocolateyogurtItem - 0
+
+
+foodCinnamonappleoatmeal
+harvestcraft:cinnamonappleoatmealItem - 0
+
+
+foodCinnamonroll
+harvestcraft:cinnamonrollItem - 0
+
+
+foodCinnamonsugardonut
+harvestcraft:cinnamonsugardonutItem - 0
+
+
+foodCitrussalad
+harvestcraft:citrussaladItem - 0
+
+
+foodClamcooked
+harvestcraft:clamcookedItem - 0
+
+
+foodClamraw
+harvestcraft:clamrawItem - 0
+
+
+foodCocoapowder
+harvestcraft:cocoapowderItem - 0
+
+
+foodCoconutcream
+harvestcraft:coconutcreamItem - 0
+
+
+foodCoconutmilk
+harvestcraft:coconutmilkItem - 0
+
+
+foodCoconutshrimp
+harvestcraft:coconutshrimpItem - 0
+
+
+foodCoconutsmoothie
+harvestcraft:coconutsmoothieItem - 0
+
+
+foodCoconutyogurt
+harvestcraft:coconutyogurtItem - 0
+
+
+foodCoffee
+harvestcraft:coffeeItem - 0
+
+
+foodCoffeeconleche
+harvestcraft:coffeeconlecheItem - 0
+
+
+foodColasoda
+harvestcraft:colasodaItem - 0
+
+
+foodColeslaw
+harvestcraft:coleslawItem - 0
+
+
+foodColeslawburger
+harvestcraft:coleslawburgerItem - 0
+
+
+foodCornbread
+harvestcraft:cornbreadItem - 0
+
+
+foodCornflakes
+harvestcraft:cornflakesItem - 0
+
+
+foodCornishpasty
+harvestcraft:cornishpastyItem - 0
+
+
+foodCornmeal
+harvestcraft:cornmealItem - 0
+
+
+foodCornonthecob
+harvestcraft:cornonthecobItem - 0
+
+
+foodCottagepie
+harvestcraft:cottagepieItem - 0
+
+
+foodCrabcooked
+harvestcraft:crabcookedItem - 0
+
+
+foodCrabraw
+harvestcraft:crabrawItem - 0
+
+
+foodCracker
+harvestcraft:crackerItem - 0
+
+
+foodCranberrybar
+harvestcraft:cranberrybarItem - 0
+
+
+foodCranberryjelly
+harvestcraft:cranberryjellyItem - 0
+
+
+foodCranberryjellysandwich
+harvestcraft:cranberryjellysandwichItem - 0
+
+
+foodCranberryjuice
+harvestcraft:cranberryjuiceItem - 0
+
+
+foodCranberrysauce
+harvestcraft:cranberrysauceItem - 0
+
+
+foodCranberrysmoothie
+harvestcraft:cranberrysmoothieItem - 0
+
+
+foodCranberryyogurt
+harvestcraft:cranberryyogurtItem - 0
+
+
+foodCrayfishcooked
+harvestcraft:crayfishcookedItem - 0
+
+
+foodCrayfishraw
+harvestcraft:crayfishrawItem - 0
+
+
+foodCreamcookie
+harvestcraft:creamcookieItem - 0
+
+
+foodCreamedbroccolisoup
+harvestcraft:creamedbroccolisoupItem - 0
+
+
+foodCreamedcorn
+harvestcraft:creamedcornItem - 0
+
+
+foodCreamofavocadosoup
+harvestcraft:creamofavocadosoupItem - 0
+
+
+foodCroissant
+harvestcraft:croissantItem - 0
+
+
+foodCucumbersalad
+harvestcraft:cucumbersaladItem - 0
+
+
+foodCucumbersoup
+harvestcraft:cucumbersoupItem - 0
+
+
+foodCurry
+harvestcraft:curryItem - 0
+
+
+foodCurrypowder
+harvestcraft:currypowderItem - 0
+
+
+foodCustard
+harvestcraft:custardItem - 0
+
+
+foodDamper
+harvestcraft:damperItem - 0
+
+
+foodDatenutbread
+harvestcraft:datenutbreadItem - 0
+
+
+foodDelightedmeal
+harvestcraft:delightedmealItem - 0
+
+
+foodDeluxecheeseburger
+harvestcraft:deluxecheeseburgerItem - 0
+
+
+foodDeluxechickencurry
+harvestcraft:deluxechickencurryItem - 0
+
+
+foodDimsum
+harvestcraft:dimsumItem - 0
+
+
+foodDonut
+harvestcraft:donutItem - 0
+
+
+foodDough
+harvestcraft:doughItem - 0
+
+
+foodEelraw
+harvestcraft:eelrawItem - 0
+
+
+foodEggnog
+harvestcraft:eggnogItem - 0
+
+
+foodEggplantparm
+harvestcraft:eggplantparmItem - 0
+
+
+foodEggsalad
+harvestcraft:eggsaladItem - 0
+
+
+foodEnergydrink
+harvestcraft:energydrinkItem - 0
+
+
+foodEpicbacon
+harvestcraft:epicbaconItem - 0
+
+
+foodEspresso
+harvestcraft:espressoItem - 0
+
+
+foodExtremechili
+harvestcraft:extremechiliItem - 0
+
+
+foodFairybread
+harvestcraft:fairybreadItem - 0
+
+
+foodFigbar
+harvestcraft:figbarItem - 0
+
+
+foodFigjelly
+harvestcraft:figjellyItem - 0
+
+
+foodFigjellysandwich
+harvestcraft:figjellysandwichItem - 0
+
+
+foodFigjuice
+harvestcraft:figjuiceItem - 0
+
+
+foodFigsmoothie
+harvestcraft:figsmoothieItem - 0
+
+
+foodFigyogurt
+harvestcraft:figyogurtItem - 0
+
+
+foodFilledhoneycomb
+BiomesOPlenty:food - 9
+
+
+foodFirmtofu
+harvestcraft:firmtofuItem - 0
+
+
+foodFishandchips
+harvestcraft:fishandchipsItem - 0
+
+
+foodFishdinner
+harvestcraft:fishdinnerItem - 0
+
+
+foodFishlettucewrap
+harvestcraft:fishlettucewrapItem - 0
+
+
+foodFishsandwich
+harvestcraft:fishsandwichItem - 0
+
+
+foodFishsticks
+harvestcraft:fishsticksItem - 0
+
+
+foodFishtaco
+harvestcraft:fishtacoItem - 0
+
+
+foodFlour
+harvestcraft:flourItem - 0
+
+
+foodFootlong
+harvestcraft:footlongItem - 0
+
+
+foodFrenchtoast
+harvestcraft:frenchtoastItem - 0
+
+
+foodFriedchicken
+harvestcraft:friedchickenItem - 0
+
+
+foodFriedegg
+harvestcraft:friedeggItem - 0
+
+
+foodFriedonions
+harvestcraft:friedonionsItem - 0
+
+
+foodFriedpecanokra
+harvestcraft:friedpecanokraItem - 0
+
+
+foodFriedrice
+harvestcraft:friedriceItem - 0
+
+
+foodFries
+harvestcraft:friesItem - 0
+
+
+foodFrogcooked
+harvestcraft:frogcookedItem - 0
+
+
+foodFrograw
+harvestcraft:frograwItem - 0
+
+
+foodFrosteddonut
+harvestcraft:frosteddonutItem - 0
+
+
+foodFruitcrumble
+harvestcraft:fruitcrumbleItem - 0
+
+
+foodFruitpunch
+harvestcraft:fruitpunchItem - 0
+
+
+foodFruitsalad
+BiomesOPlenty:food - 4
+harvestcraft:fruitsaladItem - 0
+
+
+foodFutomaki
+harvestcraft:futomakiItem - 0
+
+
+foodGarammasala
+harvestcraft:garammasalaItem - 0
+
+
+foodGardensoup
+harvestcraft:gardensoupItem - 0
+
+
+foodGarlicbread
+harvestcraft:garlicbreadItem - 0
+
+
+foodGarlicchicken
+harvestcraft:garlicchickenItem - 0
+
+
+foodGarlicmashedpotatoes
+harvestcraft:garlicmashedpotatoesItem - 0
+
+
+foodGeneraltsochicken
+harvestcraft:generaltsochickenItem - 0
+
+
+foodGherkin
+harvestcraft:gherkinItem - 0
+
+
+foodGingerbread
+harvestcraft:gingerbreadItem - 0
+
+
+foodGingerchicken
+harvestcraft:gingerchickenItem - 0
+
+
+foodGingeredrhubarbtart
+harvestcraft:gingeredrhubarbtartItem - 0
+
+
+foodGingersnaps
+harvestcraft:gingersnapsItem - 0
+
+
+foodGingersoda
+harvestcraft:gingersodaItem - 0
+
+
+foodGlazedcarrots
+harvestcraft:glazedcarrotsItem - 0
+
+
+foodGooseberryjelly
+harvestcraft:gooseberryjellyItem - 0
+
+
+foodGooseberryjellysandwich
+harvestcraft:gooseberryjellysandwichItem - 0
+
+
+foodGooseberrymilkeshake
+harvestcraft:gooseberrymilkshakeItem - 0
+
+
+foodGooseberrypie
+harvestcraft:gooseberrypieItem - 0
+
+
+foodGooseberrysmoothie
+harvestcraft:gooseberrysmoothieItem - 0
+
+
+foodGooseberryyogurt
+harvestcraft:gooseberryyogurtItem - 0
+
+
+foodGrapefruitjelly
+harvestcraft:grapefruitjellyItem - 0
+
+
+foodGrapefruitjellysandwich
+harvestcraft:grapefruitjellysandwichItem - 0
+
+
+foodGrapefruitjellysmoothie
+harvestcraft:grapefruitsmoothieItem - 0
+
+
+foodGrapefruitjuice
+harvestcraft:grapefruitjuiceItem - 0
+
+
+foodGrapefruitsoda
+harvestcraft:grapefruitsodaItem - 0
+
+
+foodGrapefruityogurt
+harvestcraft:grapefruityogurtItem - 0
+
+
+foodGrapejelly
+harvestcraft:grapejellyItem - 0
+
+
+foodGrapejuice
+harvestcraft:grapejuiceItem - 0
+
+
+foodGrapesalad
+harvestcraft:grapesaladItem - 0
+
+
+foodGrapesmoothie
+harvestcraft:grapesmoothieItem - 0
+
+
+foodGrapesoda
+harvestcraft:grapesodaItem - 0
+
+
+foodGrapeyogurt
+harvestcraft:grapeyogurtItem - 0
+
+
+foodGravy
+harvestcraft:gravyItem - 0
+
+
+foodGreenheartfish
+harvestcraft:greenheartfishItem - 0
+
+
+foodGrilledasparagus
+harvestcraft:grilledasparagusItem - 0
+
+
+foodGrilledcheese
+harvestcraft:grilledcheeseItem - 0
+
+
+foodGrilledeggplant
+harvestcraft:grilledeggplantItem - 0
+
+
+foodGrilledmushroom
+harvestcraft:grilledmushroomItem - 0
+
+
+foodGrilledskewers
+harvestcraft:grilledskewersItem - 0
+
+
+foodGroundcinnamon
+harvestcraft:groundcinnamonItem - 0
+
+
+foodGroundnutmeg
+harvestcraft:groundnutmegItem - 0
+
+
+foodGrouperraw
+harvestcraft:grouperrawItem - 0
+
+
+foodGuacamole
+harvestcraft:guacamoleItem - 0
+
+
+foodGummybears
+harvestcraft:gummybearsItem - 0
+
+
+foodHamburger
+harvestcraft:hamburgerItem - 0
+
+
+foodHamsweetpicklesandwich
+harvestcraft:hamsweetpicklesandwichItem - 0
+
+
+foodHash
+harvestcraft:hashItem - 0
+
+
+foodHeartyBreakfast
+harvestcraft:heartybreakfastItem - 0
+
+
+foodHeavycream
+harvestcraft:heavycreamItem - 0
+
+
+foodHerbbutterparsnips
+harvestcraft:herbbutterparsnipsItem - 0
+
+
+foodHerringraw
+harvestcraft:herringrawItem - 0
+
+
+foodHolidaycake
+harvestcraft:holidaycakeItem - 0
+
+
+foodHoneycombchocolatebar
+harvestcraft:honeycombchocolatebarItem - 0
+
+
+foodHoneydrop
+harvestcraft:honeyItem - 0
+
+
+foodHoneylemonlamb
+harvestcraft:honeylemonlambItem - 0
+
+
+foodHoneysandwich
+harvestcraft:honeysandwichItem - 0
+
+
+foodHotchocolate
+harvestcraft:hotchocolateItem - 0
+
+
+foodHotdog
+harvestcraft:hotdogItem - 0
+
+
+foodHotwings
+harvestcraft:hotwingsItem - 0
+
+
+foodHushpuppies
+harvestcraft:hushpuppiesItem - 0
+
+
+foodIcecream
+harvestcraft:icecreamItem - 0
+
+
+foodJaffa
+harvestcraft:jaffaItem - 0
+
+
+foodJamroll
+harvestcraft:jamrollItem - 0
+
+
+foodJellybeans
+harvestcraft:jellybeansItem - 0
+
+
+foodJellydonut
+harvestcraft:jellydonutItem - 0
+
+
+foodJellyfishraw
+harvestcraft:jellyfishrawItem - 0
+
+
+foodKetchup
+harvestcraft:ketchupItem - 0
+
+
+foodKeylimepie
+harvestcraft:keylimepieItem - 0
+
+
+foodKimchi
+harvestcraft:kimchiItem - 0
+
+
+foodKiwijelly
+harvestcraft:kiwijellyItem - 0
+
+
+foodKiwijellysandwich
+harvestcraft:kiwijellysandwichItem - 0
+
+
+foodKiwijuice
+harvestcraft:kiwijuiceItem - 0
+
+
+foodKiwismoothie
+harvestcraft:kiwismoothieItem - 0
+
+
+foodKiwiyogurt
+harvestcraft:kiwiyogurtItem - 0
+
+
+foodLambbarleysoup
+harvestcraft:lambbarleysoupItem - 0
+
+
+foodLambkebab
+harvestcraft:lambkebabItem - 0
+
+
+foodLambwithmintsauce
+harvestcraft:lambwithmintsauceItem - 0
+
+
+foodLamington
+harvestcraft:lamingtonItem - 0
+
+
+foodLavendershortbread
+harvestcraft:lavendershortbreadItem - 0
+
+
+foodLeafychickensandwich
+harvestcraft:leafychickensandwichItem - 0
+
+
+foodLeafyfishsandwich
+harvestcraft:leafyfishsandwichItem - 0
+
+
+foodLeekbaconsoup
+harvestcraft:leekbaconsoupItem - 0
+
+
+foodLemonaide
+harvestcraft:lemonaideItem - 0
+
+
+foodLemonbar
+harvestcraft:lemonbarItem - 0
+
+
+foodLemonchicken
+harvestcraft:lemonchickenItem - 0
+
+
+foodLemonjelly
+harvestcraft:lemonjellyItem - 0
+
+
+foodLemonjellysandwich
+harvestcraft:lemonjellysandwichItem - 0
+
+
+foodLemonjuice
+
+
+foodLemonlimesoda
+harvestcraft:lemonlimesodaItem - 0
+
+
+foodLemonmeringue
+harvestcraft:lemonmeringueItem - 0
+
+
+foodLemonsmoothie
+harvestcraft:lemonsmoothieItem - 0
+
+
+foodLemonyogurt
+harvestcraft:lemonyogurtItem - 0
+
+
+foodLimejelly
+harvestcraft:limejellyItem - 0
+
+
+foodLimejellysandwich
+harvestcraft:limejellysandwichItem - 0
+
+
+foodLimejuice
+harvestcraft:limejuiceItem - 0
+
+
+foodLimesmoothie
+harvestcraft:limesmoothieItem - 0
+
+
+foodLimeyogurt
+harvestcraft:limeyogurtItem - 0
+
+
+foodLoadedbakedpotato
+harvestcraft:loadedbakedpotatoItem - 0
+
+
+foodMangochutney
+harvestcraft:mangochutneyItem - 0
+
+
+foodMangojelly
+harvestcraft:mangojellyItem - 0
+
+
+foodMangojellysandwich
+harvestcraft:mangojellysandwichItem - 0
+
+
+foodMangojuice
+harvestcraft:mangojuiceItem - 0
+
+
+foodMangosmoothie
+harvestcraft:mangosmoothieItem - 0
+
+
+foodMangoyogurt
+harvestcraft:mangoyogurtItem - 0
+
+
+foodManjuu
+harvestcraft:manjuuItem - 0
+
+
+foodMaplecandiedbacon
+harvestcraft:maplecandiedbaconItem - 0
+
+
+foodMapleoatmeal
+harvestcraft:mapleoatmealItem - 0
+
+
+foodMaplesausage
+harvestcraft:maplesausageItem - 0
+
+
+foodMaplesyruppancakes
+harvestcraft:maplesyruppancakesItem - 0
+
+
+foodMaplesyrupwaffles
+harvestcraft:maplesyrupwafflesItem - 0
+
+
+foodMarinatedcucumbers
+harvestcraft:marinatedcucumbersItem - 0
+
+
+foodMarshmellows
+harvestcraft:marshmellowsItem - 0
+
+
+foodMarzipan
+harvestcraft:marzipanItem - 0
+
+
+foodMashedpotatoes
+harvestcraft:mashedpotatoesItem - 0
+
+
+foodMashedsweetpotatoes
+harvestcraft:mashedsweetpotatoesItem - 0
+
+
+foodMayo
+harvestcraft:mayoItem - 0
+
+
+foodMcpam
+harvestcraft:mcpamItem - 0
+
+
+foodMeatfeastpizza
+harvestcraft:meatfeastpizzaItem - 0
+
+
+foodMeatpie
+harvestcraft:meatpieItem - 0
+
+
+foodMeatystew
+harvestcraft:meatystewItem - 0
+
+
+foodMelonjuice
+harvestcraft:melonjuiceItem - 0
+
+
+foodMelonsmoothie
+harvestcraft:melonsmoothieItem - 0
+
+
+foodMelonyogurt
+harvestcraft:melonyogurtItem - 0
+
+
+foodMincepie
+harvestcraft:mincepieItem - 0
+
+
+foodMintchocolatechipicecream
+harvestcraft:mintchocolatechipicemcreamItem - 0
+
+
+foodMixedsalad
+harvestcraft:mixedsaladItem - 0
+
+
+foodMochaicecream
+harvestcraft:mochaicecreamItem - 0
+
+
+foodMochi
+harvestcraft:mochiItem - 0
+
+
+foodMudfishraw
+harvestcraft:mudfishrawItem - 0
+
+
+foodMuseli
+harvestcraft:museliItem - 0
+
+
+foodMushroompowder
+BiomesOPlenty:food - 1
+
+
+foodMushroomrisotto
+harvestcraft:mushroomrisottoItem - 0
+
+
+foodMushroomsalad
+BiomesOPlenty:food - 6
+
+
+foodMustard
+harvestcraft:mustardItem - 0
+
+
+foodMuttoncooked
+harvestcraft:muttoncookedItem - 0
+
+
+foodMuttonraw
+harvestcraft:muttonrawItem - 0
+
+
+foodNaan
+harvestcraft:naanItem - 0
+
+
+foodNachoes
+harvestcraft:nachoesItem - 0
+
+
+foodNeapolitanicecream
+harvestcraft:neapolitanicecreamItem - 0
+
+
+foodNutella
+harvestcraft:nutellaItem - 0
+
+
+foodOctopuscooked
+harvestcraft:octopuscookedItem - 0
+
+
+foodOctopusraw
+harvestcraft:octopusrawItem - 0
+
+
+foodOkrachips
+harvestcraft:okrachipsItem - 0
+
+
+foodOkracreole
+harvestcraft:okracreoleItem - 0
+
+
+foodOldworldveggiesoup
+harvestcraft:oldworldveggiesoupItem - 0
+
+
+foodOliveoil
+harvestcraft:oliveoilItem - 0
+VeganOption:oilVegetable - 0
+
+
+foodOmelet
+harvestcraft:omeletItem - 0
+
+
+foodOnionhamburger
+harvestcraft:onionhamburgerItem - 0
+
+
+foodOnionsoup
+harvestcraft:onionsoupItem - 0
+
+
+foodOrangechicken
+harvestcraft:orangechickenItem - 0
+
+
+foodOrangejelly
+harvestcraft:orangejellyItem - 0
+
+
+foodOrangejellysandwich
+harvestcraft:orangejellysandwichItem - 0
+
+
+foodOrangejuice
+harvestcraft:orangejuiceItem - 0
+
+
+foodOrangesmoothie
+harvestcraft:orangesmoothieItem - 0
+
+
+foodOrangesoda
+harvestcraft:orangesodaItem - 0
+
+
+foodOrangeyogurt
+harvestcraft:orangeyogurtItem - 0
+
+
+foodOvenroastedcauliflower
+harvestcraft:ovenroastedcauliflowerItem - 0
+
+
+foodPancakes
+harvestcraft:pancakesItem - 0
+
+
+foodPaneer
+harvestcraft:paneerItem - 0
+
+
+foodPaneertikkamasala
+harvestcraft:paneertikkamasalaItem - 0
+
+
+foodPapayajelly
+harvestcraft:papayajellyItem - 0
+
+
+foodPapayajellysandwich
+harvestcraft:papayajellysandwichItem - 0
+
+
+foodPapayajuice
+harvestcraft:papayajuiceItem - 0
+
+
+foodPapayasmoothie
+harvestcraft:papayasmoothieItem - 0
+
+
+foodPapayayogurt
+harvestcraft:papayayogurtItem - 0
+
+
+foodPasta
+harvestcraft:pastaItem - 0
+
+
+foodPavlova
+harvestcraft:pavlovaItem - 0
+
+
+foodPbandj
+harvestcraft:pbandjItem - 0
+
+
+foodPeaandhamsoup
+harvestcraft:peaandhamsoupItem - 0
+
+
+foodPeachcobbler
+harvestcraft:peachcobblerItem - 0
+
+
+foodPeachesandcreamoatmeal
+harvestcraft:peachesandcreamoatmealItem - 0
+
+
+foodPeachjelly
+harvestcraft:peachjellyItem - 0
+
+
+foodPeachjellysandwich
+harvestcraft:peachjellysandwichItem - 0
+
+
+foodPeachjuice
+harvestcraft:peachjuiceItem - 0
+
+
+foodPeachsmoothie
+harvestcraft:peachsmoothieItem - 0
+
+
+foodPeachyogurt
+harvestcraft:peachyogurtItem - 0
+
+
+foodPeanutbutter
+harvestcraft:peanutbutterItem - 0
+
+
+foodPeanutbuttercookies
+harvestcraft:peanutbuttercookiesItem - 0
+
+
+foodPearjelly
+harvestcraft:pearjellyItem - 0
+
+
+foodPearjellysandwich
+harvestcraft:pearjellysandwichItem - 0
+
+
+foodPearjuice
+harvestcraft:pearjuiceItem - 0
+
+
+foodPearsmoothie
+harvestcraft:pearsmoothieItem - 0
+
+
+foodPearyogurt
+harvestcraft:pearyogurtItem - 0
+
+
+foodPeasandcelery
+harvestcraft:peasandceleryItem - 0
+
+
+foodPecanpie
+harvestcraft:pecanpieItem - 0
+
+
+foodPeppermint
+harvestcraft:peppermintItem - 0
+
+
+foodPepperoni
+harvestcraft:pepperoniItem - 0
+
+
+foodPerchraw
+harvestcraft:perchrawItem - 0
+
+
+foodPersimmonjelly
+harvestcraft:persimmonjellyItem - 0
+
+
+foodPersimmonjellysanwich
+harvestcraft:persimmonjellysandwichItem - 0
+
+
+foodPersimmonjuice
+harvestcraft:persimmonjuiceItem - 0
+
+
+foodPersimmonsmoothie
+harvestcraft:persimmonsmoothieItem - 0
+
+
+foodPersimmonyogurt
+harvestcraft:persimmonyogurtItem - 0
+
+
+foodPickledbeets
+harvestcraft:pickledbeetsItem - 0
+
+
+foodPickledonions
+harvestcraft:pickledonionsItem - 0
+
+
+foodPickles
+harvestcraft:picklesItem - 0
+
+
+foodPinacolada
+harvestcraft:pinacoladaItem - 0
+
+
+foodPineappleham
+harvestcraft:pineapplehamItem - 0
+
+
+foodPineappleupsidedowncake
+harvestcraft:pineappleupsidedowncakeItem - 0
+
+
+foodPineappleyogurt
+harvestcraft:pineappleyogurtItem - 0
+
+
+foodPistachiobakedsalmon
+harvestcraft:pistachiobakedsalmonItem - 0
+
+
+foodPistachiobutter
+harvestcraft:pistachiobutterItem - 0
+
+
+foodPistachioicecream
+harvestcraft:pistachioicecreamItem - 0
+
+
+foodPizza
+harvestcraft:pizzaItem - 0
+
+
+foodPlainyogurt
+harvestcraft:plainyogurtItem - 0
+
+
+foodPloughmanslunch
+harvestcraft:ploughmanslunchItem - 0
+
+
+foodPlumjelly
+harvestcraft:plumjellyItem - 0
+
+
+foodPlumjellysandwich
+harvestcraft:plumjellysandwichItem - 0
+
+
+foodPlumjuice
+harvestcraft:plumjuiceItem - 0
+
+
+foodPlumsmoothie
+harvestcraft:plumsmoothieItem - 0
+
+
+foodPlumyogurt
+harvestcraft:plumyogurtItem - 0
+
+
+foodPoachedpear
+harvestcraft:poachedpearItem - 0
+
+
+foodPomegranatejelly
+harvestcraft:pomegranatejellyItem - 0
+
+
+foodPomegranatejellysandwich
+harvestcraft:pomegranatejellysandwichItem - 0
+
+
+foodPomegranatejuice
+harvestcraft:pomegranatejuiceItem - 0
+
+
+foodPomegranatesmoothie
+harvestcraft:pomegranatesmoothieItem - 0
+
+
+foodPomegranateyogurt
+harvestcraft:pomegranateyogurtItem - 0
+
+
+foodPorklettucewrap
+harvestcraft:porklettucewrapItem - 0
+
+
+foodPorklomein
+harvestcraft:porklomeinItem - 0
+
+
+foodPorksausage
+harvestcraft:porksausageItem - 0
+
+
+foodPotatoandcheesepirogi
+harvestcraft:potatoandcheesepirogiItem - 0
+
+
+foodPotatoandleeksoup
+harvestcraft:potatoandleeksoupItem - 0
+
+
+foodPotatocakes
+harvestcraft:potatocakesItem - 0
+
+
+foodPotatosalad
+harvestcraft:potatosaladItem - 0
+
+
+foodPotatosoup
+harvestcraft:potatosoupItem - 0
+
+
+foodPotroast
+harvestcraft:potroastItem - 0
+
+
+foodPowdereddonut
+harvestcraft:powdereddonutItem - 0
+
+
+foodPralines
+harvestcraft:pralinesItem - 0
+
+
+foodPumpkinbread
+harvestcraft:pumpkinbreadItem - 0
+
+
+foodPumpkinoatscones
+harvestcraft:pumpkinoatsconesItem - 0
+
+
+foodPumpkinsoup
+harvestcraft:pumpkinsoupItem - 0
+
+
+foodPumpkinyogurt
+harvestcraft:pumpkinyogurtItem - 0
+
+
+foodRabbitcooked
+harvestcraft:rabbitcookedItem - 0
+
+
+foodRabbitraw
+harvestcraft:rabbitrawItem - 0
+
+
+foodRainbowcurry
+harvestcraft:rainbowcurryItem - 0
+
+
+foodRaisincookies
+harvestcraft:raisincookiesItem - 0
+
+
+foodRaisins
+harvestcraft:raisinsItem - 0
+
+
+foodRaspberryicedtea
+harvestcraft:raspberryicedteaItem - 0
+
+
+foodRaspberryjam
+
+
+foodRaspberryjelly
+harvestcraft:raspberryjellyItem - 0
+
+
+foodRaspberryjellysandwich
+harvestcraft:raspberryjellysandwichItem - 0
+
+
+foodRaspberryjuice
+harvestcraft:raspberryjuiceItem - 0
+
+
+foodRaspberrypie
+harvestcraft:raspberrypieItem - 0
+
+
+foodRaspberrysmoothie
+harvestcraft:raspberrysmoothieItem - 0
+
+
+foodRaspberrytrifle
+harvestcraft:raspberrytrifleItem - 0
+
+
+foodRaspberryyogurt
+harvestcraft:raspberryyogurtItem - 0
+
+
+foodRawshrimp
+
+
+foodRedvelvetcake
+harvestcraft:redvelvetcakeItem - 0
+
+
+foodRefriedbeans
+harvestcraft:refriedbeansItem - 0
+
+
+foodRicecake
+harvestcraft:ricecakeItem - 0
+
+
+foodRicesoup
+harvestcraft:ricesoupItem - 0
+
+
+foodRoastchicken
+harvestcraft:roastchickenItem - 0
+
+
+foodRoastedchestnut
+harvestcraft:roastedchestnutItem - 0
+
+
+foodRoastedpumpkinseeds
+harvestcraft:roastedpumpkinseedsItem - 0
+
+
+foodRoastedrootveggiemedley
+harvestcraft:roastedrootveggiemedleyItem - 0
+
+
+foodRoastpotatoes
+harvestcraft:roastpotatoesItem - 0
+
+
+foodRootbeersoda
+harvestcraft:rootbeersodaItem - 0
+
+
+foodSaladdressing
+harvestcraft:saladdressingItem - 0
+
+
+foodSalmonpatties
+harvestcraft:salmonpattiesItem - 0
+
+
+foodSalmonraw
+minecraft:fish - 1
+
+
+foodSalt
+harvestcraft:saltItem - 0
+
+
+foodSaltedsunflowerseeds
+harvestcraft:saltedsunflowerseedsItem - 0
+
+
+foodSausage
+harvestcraft:sausageItem - 0
+
+
+foodSausageinbread
+harvestcraft:sausageinbreadItem - 0
+
+
+foodSausageroll
+harvestcraft:sausagerollItem - 0
+
+
+foodScallionbakedpotato
+harvestcraft:scallionbakedpotatoItem - 0
+
+
+foodScallopcooked
+harvestcraft:scallopcookedItem - 0
+
+
+foodScallopraw
+harvestcraft:scalloprawItem - 0
+
+
+foodScrambledegg
+harvestcraft:scrambledeggItem - 0
+
+
+foodSeedsoup
+harvestcraft:seedsoupItem - 0
+
+
+foodSesameball
+harvestcraft:sesameballItem - 0
+
+
+foodSesamesnaps
+harvestcraft:sesamesnapsItem - 0
+
+
+foodShepherdspie
+harvestcraft:shepardspieItem - 0
+
+
+foodShrimpcooked
+harvestcraft:shrimpcookedItem - 0
+
+
+foodShrimpokrahushpuppies
+harvestcraft:shrimpokrahushpuppiesItem - 0
+
+
+foodShrimpraw
+harvestcraft:shrimprawItem - 0
+
+
+foodSilkentofu
+harvestcraft:silkentofuItem - 0
+
+
+foodSnailcooked
+harvestcraft:snailcookedItem - 0
+
+
+foodSnailraw
+harvestcraft:snailrawItem - 0
+
+
+foodSnapperraw
+harvestcraft:snapperrawItem - 0
+
+
+foodSnickersbar
+harvestcraft:snickersbarItem - 0
+
+
+foodSoftpretzel
+harvestcraft:softpretzelItem - 0
+
+
+foodSoftpretzelandmustard
+harvestcraft:softpretzelandmustardItem - 0
+
+
+foodSoymilk
+harvestcraft:soymilkItem - 0
+
+
+foodSoysauce
+harvestcraft:soysauceItem - 0
+
+
+foodSpagetti
+harvestcraft:spagettiItem - 0
+
+
+foodSpagettiandmeatballs
+harvestcraft:spagettiandmeatballsItem - 0
+
+
+foodSpicebun
+harvestcraft:spicebunItem - 0
+
+
+foodSpicygreens
+harvestcraft:spicygreensItem - 0
+
+
+foodSpicymustardpork
+harvestcraft:spicymustardporkItem - 0
+
+
+foodSpidereyesoup
+harvestcraft:spidereyesoupItem - 0
+
+
+foodSpinachpie
+harvestcraft:spinachpieItem - 0
+
+
+foodSplitpeasoup
+harvestcraft:splitpeasoupItem - 0
+
+
+foodSpringsalad
+harvestcraft:springsaladItem - 0
+
+
+foodSpumoniicecream
+harvestcraft:spumoniicecreamItem - 0
+
+
+foodStarfruitjelly
+harvestcraft:starfruitjellyItem - 0
+
+
+foodStarfruitjellysandwich
+harvestcraft:starfruitjellysandwichItem - 0
+
+
+foodStarfruitjuice
+harvestcraft:starfruitjuiceItem - 0
+
+
+foodStarfruitsmoothie
+harvestcraft:starfruitsmoothieItem - 0
+
+
+foodStarfruityogurt
+harvestcraft:starfruityogurtItem - 0
+
+
+foodSteakandchips
+harvestcraft:steakandchipsItem - 0
+
+
+foodSteamedpeas
+harvestcraft:steamedpeasItem - 0
+
+
+foodSteamedspinach
+harvestcraft:steamedspinachItem - 0
+
+
+foodStock
+harvestcraft:stockItem - 0
+
+
+foodStrawberryicecream
+harvestcraft:strawberryicecreamItem - 0
+
+
+foodStrawberryjelly
+harvestcraft:strawberryjellyItem - 0
+
+
+foodStrawberryjellysandwich
+harvestcraft:strawberryjellysandwichItem - 0
+
+
+foodStrawberryjuice
+harvestcraft:strawberryjuiceItem - 0
+
+
+foodStrawberrymilkshake
+harvestcraft:strawberrymilkshakeItem - 0
+
+
+foodStrawberrypie
+harvestcraft:strawberrypieItem - 0
+
+
+foodStrawberrysalad
+harvestcraft:strawberrysaladItem - 0
+
+
+foodStrawberrysmoothie
+harvestcraft:strawberrysmoothieItem - 0
+
+
+foodStrawberrysoda
+harvestcraft:strawberrysodaItem - 0
+
+
+foodStrawberryyogurt
+harvestcraft:strawberryyogurtItem - 0
+
+
+foodStuffedeggplant
+harvestcraft:stuffedeggplantItem - 0
+
+
+foodStuffedmushroom
+harvestcraft:stuffedmushroomItem - 0
+
+
+foodStuffedpepper
+harvestcraft:stuffedpepperItem - 0
+
+
+foodSummerradishsalad
+harvestcraft:summerradishsaladItem - 0
+
+
+foodSummersquashwithradish
+harvestcraft:summersquashwithradishItem - 0
+
+
+foodSundayroast
+harvestcraft:sundayroastItem - 0
+
+
+foodSunflowerbroccolisalad
+harvestcraft:sunflowerbroccolisaladItem - 0
+
+
+foodSunflowerwheatrolls
+harvestcraft:sunflowerwheatrollsItem - 0
+
+
+foodSupremepizza
+harvestcraft:supremepizzaItem - 0
+
+
+foodSushi
+harvestcraft:sushiItem - 0
+
+
+foodSweetpickle
+harvestcraft:sweetpickleItem - 0
+
+
+foodSweetpotatopie
+harvestcraft:sweetpotatopieItem - 0
+
+
+foodSweetpotatosouffle
+harvestcraft:sweetpotatosouffleItem - 0
+
+
+foodTaco
+harvestcraft:tacoItem - 0
+
+
+foodTaffy
+harvestcraft:taffyItem - 0
+
+
+foodTea
+harvestcraft:teaItem - 0
+
+
+foodTilapiaraw
+harvestcraft:tilapiarawItem - 0
+
+
+foodTimtam
+harvestcraft:timtamItem - 0
+
+
+foodToadinthehole
+harvestcraft:toadintheholeItem - 0
+
+
+foodToast
+harvestcraft:toastItem - 0
+
+
+foodToastedcoconut
+harvestcraft:toastedcoconutItem - 0
+
+
+foodToastsandwich
+harvestcraft:toastsandwichItem - 0
+
+
+foodTomatosoup
+harvestcraft:tomatosoupItem - 0
+
+
+foodTortilla
+harvestcraft:tortillaItem - 0
+
+
+foodTrailmix
+harvestcraft:trailmixItem - 0
+
+
+foodTroutraw
+harvestcraft:troutrawItem - 0
+
+
+foodTunapotato
+harvestcraft:tunapotatoItem - 0
+
+
+foodTunaraw
+harvestcraft:tunarawItem - 0
+
+
+foodTurkeycooked
+harvestcraft:turkeycookedItem - 0
+
+
+foodTurkeyraw
+harvestcraft:turkeyrawItem - 0
+
+
+foodTurnipsoup
+harvestcraft:turnipsoupItem - 0
+
+
+foodTurtlecooked
+harvestcraft:turtlecookedItem - 0
+
+
+foodTurtleraw
+harvestcraft:turtlerawItem - 0
+
+
+foodVanilla
+harvestcraft:vanillaItem - 0
+
+
+foodVanillaicecream
+harvestcraft:vanillaicecreamItem - 0
+
+
+foodVanillayogurt
+harvestcraft:vanillayogurtItem - 0
+
+
+foodVegemite
+harvestcraft:vegemiteItem - 0
+
+
+foodVegemiteontoast
+harvestcraft:vegemiteontoastItem - 0
+
+
+foodVegetablesoup
+harvestcraft:vegetablesoupItem - 0
+
+
+foodVegetarianlettucewrap
+harvestcraft:vegetarianlettucewrapItem - 0
+
+
+foodVeggiesalad
+BiomesOPlenty:food - 5
+
+
+foodVeggiestirfry
+harvestcraft:veggiestirfryItem - 0
+
+
+foodVeggiestrips
+harvestcraft:veggiestripsItem - 0
+
+
+foodVenisoncooked
+harvestcraft:venisoncookedItem - 0
+
+
+foodVenisonraw
+harvestcraft:venisonrawItem - 0
+
+
+foodVindaloo
+harvestcraft:vindalooItem - 0
+
+
+foodVinegar
+harvestcraft:vinegarItem - 0
+
+
+foodWaffles
+harvestcraft:wafflesItem - 0
+
+
+foodWalleyraw
+harvestcraft:walleyerawItem - 0
+
+
+foodWalnutraisinbread
+harvestcraft:walnutraisinbreadItem - 0
+
+
+foodWatermelonjelly
+harvestcraft:watermelonjellyItem - 0
+
+
+foodWatermelonjellysandwich
+harvestcraft:watermelonjellysandwichItem - 0
+
+
+foodYorkshirepudding
+harvestcraft:yorkshirepuddingItem - 0
+
+
+foodZeppole
+harvestcraft:zeppoleItem - 0
+
+
+foodZestyzucchini
+harvestcraft:zestyzucchiniItem - 0
+
+
+foodZombiejerky
+harvestcraft:zombiejerkyItem - 0
+
+
+foodZucchinibake
+harvestcraft:zucchinibakeItem - 0
+
+
+foodZucchinibread
+harvestcraft:zucchinibreadItem - 0
+
+
+foodZucchinifries
+harvestcraft:zucchinifriesItem - 0
+
+
+foodchorizo
+harvestcraft:chorizoItem - 0
+
+
+forestArcticGentian
+plantmegapack:forestArcticGentian - 0
+
+
+forestAustralianBugle
+plantmegapack:forestAustralianBugle - 0
+
+
+forestBloodroot
+plantmegapack:forestBloodroot - 0
+
+
+forestBroadleafMeadowsweet
+plantmegapack:forestBroadleafMeadowsweet - 0
+
+
+forestDeadnettle
+plantmegapack:forestDeadnettle - 0
+
+
+forestDeceivingTrillium
+plantmegapack:forestDeceivingTrillium - 0
+
+
+forestFairySlipper
+plantmegapack:forestFairySlipper - 0
+
+
+forestGiantAngelica
+plantmegapack:forestGiantAngelica - 0
+
+
+forestHorseweed
+plantmegapack:forestHorseweed - 0
+
+
+forestKneelingAngelica
+plantmegapack:forestKneelingAngelica - 0
+
+
+forestLilyoftheValley
+plantmegapack:forestLilyoftheValley - 0
+
+
+forestLongBractedOrchid
+plantmegapack:forestLongBractedOrchid - 0
+
+
+forestMerrybells
+plantmegapack:forestMerrybells - 0
+
+
+forestNorthernPitcherPlant
+plantmegapack:forestNorthernPitcherPlant - 0
+
+
+forestPinesap
+plantmegapack:forestPinesap - 0
+
+
+forestRedHelleborine
+plantmegapack:forestRedHelleborine - 0
+
+
+forestSalal
+plantmegapack:forestSalal - 0
+
+
+forestSpringVetchling
+plantmegapack:forestSpringVetchling - 0
+
+
+forestVanillaLeaf
+plantmegapack:forestVanillaLeaf - 0
+
+
+forestWesternWallflower
+plantmegapack:forestWesternWallflower - 0
+
+
+forestWildColumbine
+plantmegapack:forestWildColumbine - 0
+
+
+forestWildMint
+plantmegapack:forestWildMint - 0
+
+
+forestWolfsFootClubmoss
+plantmegapack:forestWolfsFootClubmoss - 0
+
+
+forestWoodlandKnotweed
+plantmegapack:forestWoodlandKnotweed - 0
+
+
+forestYellowLadySlipper
+plantmegapack:forestYellowLadySlipper - 0
+
+
+fruitBait
+harvestcraft:fruitbaitItem - 0
+
+
+fungusBlackPowderpuff
+plantmegapack:fungusBlackPowderpuff - 0
+
+
+fungusChanterelle
+plantmegapack:fungusChanterelle - 0
+
+
+fungusDeathCap
+plantmegapack:fungusDeathCap - 0
+
+
+fungusGiantClub
+plantmegapack:fungusGiantClub - 0
+
+
+fungusParasol
+plantmegapack:fungusParasol - 0
+
+
+fungusStinkhorn
+plantmegapack:fungusStinkhorn - 0
+
+
+fungusWeepingMilkCap
+plantmegapack:fungusWeepingMilkCap - 0
+
+
+fungusWoodBlewit
+plantmegapack:fungusWoodBlewit - 0
+
+
+fungusWoollyGomphus
+plantmegapack:fungusWoollyGomphus - 0
+
+
+gateBambooAsper
+plantmegapack:bambooAsperGate - 0
+
+
+gateBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaGate - 0
+
+
+gateBambooGiantTimber
+plantmegapack:bambooGiantTimberGate - 0
+
+
+gateBambooGolden
+plantmegapack:bambooGoldenGate - 0
+
+
+gateBambooMoso
+plantmegapack:bambooMosoGate - 0
+
+
+gateBambooShortTassled
+plantmegapack:bambooShortTassledGate - 0
+
+
+gateBambooTimorBlack
+plantmegapack:bambooTimorBlackGate - 0
+
+
+gateBambooTropicalBlue
+plantmegapack:bambooTropicalBlueGate - 0
+
+
+gateBambooWetForest
+plantmegapack:bambooWetForestGate - 0
+
+
+gearDiamond
+BuildCraft|Core:diamondGearItem - 0
+
+
+gearGold
+BuildCraft|Core:goldGearItem - 0
+
+
+gearIron
+BuildCraft|Core:ironGearItem - 0
+
+
+gearStone
+BuildCraft|Core:stoneGearItem - 0
+
+
+gearWood
+BuildCraft|Core:woodenGearItem - 0
+
+
+gemAmber
+Thaumcraft:ItemResource - 6
+BiomesOPlenty:gems - 7
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemMalachite
+BiomesOPlenty:gems - 5
+
+
+gemPeridot
+BiomesOPlenty:gems - 2
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+gemRuby
+BiomesOPlenty:gems - 1
+
+
+gemSapphire
+BiomesOPlenty:gems - 6
+
+
+gemTanzanite
+BiomesOPlenty:gems - 4
+
+
+gemTopaz
+BiomesOPlenty:gems - 3
+
+
+glassBlack
+TConstruct:GlassBlock.StainedClear - 15
+
+
+glassBlue
+TConstruct:GlassBlock.StainedClear - 11
+
+
+glassBrown
+TConstruct:GlassBlock.StainedClear - 12
+
+
+glassCyan
+TConstruct:GlassBlock.StainedClear - 9
+
+
+glassGray
+TConstruct:GlassBlock.StainedClear - 7
+
+
+glassGreen
+TConstruct:GlassBlock.StainedClear - 13
+
+
+glassLightBlue
+TConstruct:GlassBlock.StainedClear - 3
+
+
+glassLightGray
+TConstruct:GlassBlock.StainedClear - 8
+
+
+glassLime
+TConstruct:GlassBlock.StainedClear - 5
+
+
+glassMagenta
+TConstruct:GlassBlock.StainedClear - 2
+
+
+glassOrange
+TConstruct:GlassBlock.StainedClear - 1
+
+
+glassPink
+TConstruct:GlassBlock.StainedClear - 6
+
+
+glassPurple
+TConstruct:GlassBlock.StainedClear - 10
+
+
+glassRed
+TConstruct:GlassBlock.StainedClear - 14
+
+
+glassWhite
+TConstruct:GlassBlock.StainedClear - 0
+
+
+glassYellow
+TConstruct:GlassBlock.StainedClear - 4
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+grainBait
+harvestcraft:grainbaitItem - 0
+
+
+grassBlueWheatgrass
+plantmegapack:grassBlueWheatgrass - 0
+
+
+grassCord
+plantmegapack:grassCord - 0
+
+
+grassFountain
+plantmegapack:grassFountain - 0
+
+
+grassMaiden
+plantmegapack:grassMaiden - 0
+
+
+grassMeadow
+plantmegapack:grassMeadow - 0
+
+
+grassMeadowFoxtail
+plantmegapack:grassMeadowFoxtail - 0
+
+
+grassPrairie
+plantmegapack:grassPrairie - 0
+
+
+grassSeaOats
+plantmegapack:grassSeaOats - 0
+
+
+grassSilverMoor
+plantmegapack:grassSilverMoor - 0
+
+
+grassSwitch
+plantmegapack:grassSwitch - 0
+
+
+groundcoverClover
+plantmegapack:groundcoverClover - 0
+
+
+groundcoverFlowers
+plantmegapack:groundcoverFlowers - 0
+
+
+groundcoverGrassGRNDK
+plantmegapack:groundcoverGrassGRNDK - 0
+
+
+groundcoverGrassGRNLT
+plantmegapack:groundcoverGrassGRNLT - 0
+
+
+groundcoverIvy
+plantmegapack:groundcoverIvy - 0
+
+
+groundcoverLeavesBRN
+plantmegapack:groundcoverLeavesBRN - 0
+
+
+groundcoverLeavesGRN
+plantmegapack:groundcoverLeavesGRN - 0
+
+
+groundcoverMoss
+plantmegapack:groundcoverMoss - 0
+
+
+groundcoverTwig
+plantmegapack:groundcoverTwig - 0
+
+
+grubBee
+harvestcraft:grubItem - 0
+
+
+hambone
+TConstruct:MeatBlock - 0
+
+
+hangingBambooAsper
+plantmegapack:hangingBambooAsper - 0
+
+
+hangingBambooFargesiaRobusta
+plantmegapack:hangingBambooFargesiaRobusta - 0
+
+
+hangingBambooGiantTimber
+plantmegapack:hangingBambooGiantTimber - 0
+
+
+hangingBambooGolden
+plantmegapack:hangingBambooGolden - 0
+
+
+hangingBambooMoso
+plantmegapack:hangingBambooMoso - 0
+
+
+hangingBambooShortTassled
+plantmegapack:hangingBambooShortTassled - 0
+
+
+hangingBambooTimorBlack
+plantmegapack:hangingBambooTimorBlack - 0
+
+
+hangingBambooTropicalBlue
+plantmegapack:hangingBambooTropicalBlue - 0
+
+
+hangingBambooWetForest
+plantmegapack:hangingBambooWetForest - 0
+
+
+hangingBlueWheatgrass
+plantmegapack:hangingBlueWheatgrass - 0
+
+
+hangingBrittlebush
+plantmegapack:hangingBrittlebush - 0
+
+
+hangingFlowersBLU
+plantmegapack:hangingFlowersBLU - 0
+
+
+hangingFlowersCOR
+plantmegapack:hangingFlowersCOR - 0
+
+
+hangingFlowersCYA
+plantmegapack:hangingFlowersCYA - 0
+
+
+hangingFlowersGRN
+plantmegapack:hangingFlowersGRN - 0
+
+
+hangingFlowersMAG
+plantmegapack:hangingFlowersMAG - 0
+
+
+hangingFlowersMIX
+plantmegapack:hangingFlowersMIX - 0
+
+
+hangingFlowersORA
+plantmegapack:hangingFlowersORA - 0
+
+
+hangingFlowersPNK
+plantmegapack:hangingFlowersPNK - 0
+
+
+hangingFlowersPUR
+plantmegapack:hangingFlowersPUR - 0
+
+
+hangingFlowersRED
+plantmegapack:hangingFlowersRED - 0
+
+
+hangingFlowersROY
+plantmegapack:hangingFlowersROY - 0
+
+
+hangingFlowersWHT
+plantmegapack:hangingFlowersWHT - 0
+
+
+hangingFlowersYEL
+plantmegapack:hangingFlowersYEL - 0
+
+
+hangingFoliageLGGRN
+plantmegapack:hangingFoliageLGGRN - 0
+
+
+hangingFoliageLGRED
+plantmegapack:hangingFoliageLGRED - 0
+
+
+hangingFoliageLGYEL
+plantmegapack:hangingFoliageLGYEL - 0
+
+
+hangingFoliageMDGRN
+plantmegapack:hangingFoliageMDGRN - 0
+
+
+hangingFoliageSMGRN
+plantmegapack:hangingFoliageSMGRN - 0
+
+
+hangingKrisPlant
+plantmegapack:hangingKrisPlant - 0
+
+
+hangingLavender
+plantmegapack:hangingLavender - 0
+
+
+hangingPhilodendron
+plantmegapack:hangingPhilodendron - 0
+
+
+hangingPricklyPear
+plantmegapack:hangingPricklyPear - 0
+
+
+hangingScalyTree
+plantmegapack:hangingScalyTree - 0
+
+
+hangingWildfire
+plantmegapack:hangingWildfire - 0
+
+
+hangingWolfWillow
+plantmegapack:hangingWolfWillow - 0
+
+
+holystone
+chisel:holystone - 0
+
+
+honeyEqualssugar
+
+
+immersedArrowArum
+plantmegapack:immersedArrowArum - 0
+
+
+immersedCommonReed
+plantmegapack:immersedCommonReed - 0
+
+
+immersedDuckPotato
+plantmegapack:immersedDuckPotato - 0
+
+
+immersedEuropeanBurReed
+plantmegapack:immersedEuropeanBurReed - 0
+
+
+immersedGreySedge
+plantmegapack:immersedGreySedge - 0
+
+
+immersedSimplestemBurReed
+plantmegapack:immersedSimplestemBurReed - 0
+
+
+immersedSoftstemBulrush
+plantmegapack:immersedSoftstemBulrush - 0
+
+
+immersedWaterMannagrass
+plantmegapack:immersedWaterMannagrass - 0
+
+
+immersedYellowFlag
+plantmegapack:immersedYellowFlag - 0
+
+
+ingotAluminium
+TConstruct:materials - 11
+
+
+ingotAluminiumBrass
+TConstruct:materials - 14
+
+
+ingotAluminum
+TConstruct:materials - 11
+
+
+ingotAluminumBrass
+TConstruct:materials - 14
+
+
+ingotAlumite
+TConstruct:materials - 15
+
+
+ingotArdite
+TConstruct:materials - 4
+
+
+ingotBrass
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBronze
+TConstruct:materials - 13
+
+
+ingotCobalt
+TConstruct:materials - 3
+
+
+ingotCopper
+TConstruct:materials - 9
+
+
+ingotGlue
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotLead
+
+
+ingotManyullyn
+TConstruct:materials - 5
+
+
+ingotNaturalAluminum
+
+
+ingotObsidian
+TConstruct:materials - 18
+
+
+ingotPigIron
+TConstruct:materials - 34
+
+
+ingotSilver
+
+
+ingotSteel
+TConstruct:materials - 16
+
+
+ingotThaumium
+Thaumcraft:ItemResource - 2
+
+
+ingotTin
+TConstruct:materials - 10
+
+
+ingotVoid
+Thaumcraft:ItemResource - 16
+
+
+ingotWroughtIron
+GardenStuff:wrought_iron_ingot - 0
+
+
+inkBlack
+minecraft:dye - 0
+VeganOption:inkVegetableOilBlack - 0
+
+
+inkWhite
+VeganOption:inkVegetableOilWhite - 0
+
+
+ironRod
+TConstruct:toolRod - 2
+
+
+itemBeeswax
+VeganOption:waxVegetable - 0
+
+
+itemRawRubber
+TConstruct:materials - 36
+
+
+itemRubber
+
+
+itemSalt
+harvestcraft:saltItem - 0
+
+
+jungleConeHeadedGuzmania
+plantmegapack:jungleConeHeadedGuzmania - 0
+
+
+jungleDevilsTongue
+plantmegapack:jungleDevilsTongue - 0
+
+
+jungleHoneySpurge
+plantmegapack:jungleHoneySpurge - 0
+
+
+jungleJungleLantern
+plantmegapack:jungleJungleLantern - 0
+
+
+jungleLazarusBell
+plantmegapack:jungleLazarusBell - 0
+
+
+jungleLobsterClaws
+plantmegapack:jungleLobsterClaws - 0
+
+
+jungleLollipopPlant
+plantmegapack:jungleLollipopPlant - 0
+
+
+jungleMadagascarPalm
+plantmegapack:jungleMadagascarPalm - 0
+
+
+junglePalmLily
+plantmegapack:junglePalmLily - 0
+
+
+junglePanamaQueen
+plantmegapack:junglePanamaQueen - 0
+
+
+junglePorteaAlatisepala
+plantmegapack:junglePorteaAlatisepala - 0
+
+
+jungleRacinaeaFraseri
+plantmegapack:jungleRacinaeaFraseri - 0
+
+
+jungleRicheaDracophylla
+plantmegapack:jungleRicheaDracophylla - 0
+
+
+jungleShellflower
+plantmegapack:jungleShellflower - 0
+
+
+jungleSilverVase
+plantmegapack:jungleSilverVase - 0
+
+
+jungleStaghornClubmoss
+plantmegapack:jungleStaghornClubmoss - 0
+
+
+jungleTorchGinger
+plantmegapack:jungleTorchGinger - 0
+
+
+jungleVoodooLily
+plantmegapack:jungleVoodooLily - 0
+
+
+ladderBambooAsper
+plantmegapack:bambooAsperLadder - 0
+
+
+ladderBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaLadder - 0
+
+
+ladderBambooGiantTimber
+plantmegapack:bambooGiantTimberLadder - 0
+
+
+ladderBambooGolden
+plantmegapack:bambooGoldenLadder - 0
+
+
+ladderBambooMoso
+plantmegapack:bambooMosoLadder - 0
+
+
+ladderBambooShortTassled
+plantmegapack:bambooShortTassledLadder - 0
+
+
+ladderBambooTimorBlack
+plantmegapack:bambooTimorBlackLadder - 0
+
+
+ladderBambooTropicalBlue
+plantmegapack:bambooTropicalBlueLadder - 0
+
+
+ladderBambooWetForest
+plantmegapack:bambooWetForestLadder - 0
+
+
+lavastone
+chisel:lavastone - 0
+
+
+leafyColeus
+plantmegapack:leafyColeus - 0
+
+
+leafyDevilsShoestring
+plantmegapack:leafyDevilsShoestring - 0
+
+
+leafyDustyMiller
+plantmegapack:leafyDustyMiller - 0
+
+
+leafyEmeraldPhilodendron
+plantmegapack:leafyEmeraldPhilodendron - 0
+
+
+leafyKrisPlant
+plantmegapack:leafyKrisPlant - 0
+
+
+leafyPaleYucca
+plantmegapack:leafyPaleYucca - 0
+
+
+leafyPricklyLettuce
+plantmegapack:leafyPricklyLettuce - 0
+
+
+leafyStingingNettle
+plantmegapack:leafyStingingNettle - 0
+
+
+leafyStonecrop
+plantmegapack:leafyStonecrop - 0
+
+
+limestone
+chisel:limestone - 0
+
+
+listAllbeefcooked
+minecraft:cooked_beef - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllbeefraw
+minecraft:beef - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllberry
+harvestcraft:cranberryItem - 0
+harvestcraft:blackberryItem - 0
+harvestcraft:blueberryItem - 0
+harvestcraft:raspberryItem - 0
+harvestcraft:strawberryItem - 0
+harvestcraft:gooseberryItem - 0
+
+
+listAllchickencooked
+minecraft:cooked_chicken - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllchickenraw
+minecraft:chicken - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllcitrus
+harvestcraft:lemonItem - 0
+harvestcraft:limeItem - 0
+harvestcraft:orangeItem - 0
+harvestcraft:grapefruitItem - 0
+
+
+listAllegg
+minecraft:egg - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllfishcooked
+minecraft:cooked_fished - 0
+minecraft:cooked_fished - 1
+harvestcraft:calamaricookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllfishraw
+minecraft:fish - 0
+minecraft:fish - 1
+minecraft:fish - 2
+minecraft:fish - 3
+harvestcraft:calamarirawItem - 0
+harvestcraft:firmtofuItem - 0
+harvestcraft:anchovyrawItem - 0
+harvestcraft:bassrawItem - 0
+harvestcraft:carprawItem - 0
+harvestcraft:catfishrawItem - 0
+harvestcraft:charrrawItem - 0
+harvestcraft:crayfishrawItem - 0
+harvestcraft:eelrawItem - 0
+harvestcraft:grouperrawItem - 0
+harvestcraft:herringrawItem - 0
+harvestcraft:mudfishrawItem - 0
+harvestcraft:octopusrawItem - 0
+harvestcraft:perchrawItem - 0
+harvestcraft:scalloprawItem - 0
+harvestcraft:shrimprawItem - 0
+harvestcraft:snailrawItem - 0
+harvestcraft:snapperrawItem - 0
+harvestcraft:tilapiarawItem - 0
+harvestcraft:troutrawItem - 0
+harvestcraft:tunarawItem - 0
+harvestcraft:walleyerawItem - 0
+harvestcraft:greenheartfishItem - 0
+
+
+listAllfruit
+BiomesOPlenty:food - 3
+BiomesOPlenty:food - 8
+BiomesOPlenty:food - 12
+minecraft:apple - 0
+harvestcraft:cranberryItem - 0
+harvestcraft:pineappleItem - 0
+harvestcraft:blackberryItem - 0
+harvestcraft:blueberryItem - 0
+harvestcraft:cactusfruitItem - 0
+harvestcraft:cantaloupeItem - 0
+harvestcraft:grapeItem - 0
+harvestcraft:kiwiItem - 0
+harvestcraft:raspberryItem - 0
+harvestcraft:strawberryItem - 0
+harvestcraft:bananaItem - 0
+harvestcraft:cherryItem - 0
+harvestcraft:dragonfruitItem - 0
+harvestcraft:lemonItem - 0
+harvestcraft:limeItem - 0
+harvestcraft:mangoItem - 0
+harvestcraft:orangeItem - 0
+harvestcraft:papayaItem - 0
+harvestcraft:peachItem - 0
+harvestcraft:pearItem - 0
+harvestcraft:plumItem - 0
+harvestcraft:pomegranateItem - 0
+harvestcraft:starfruitItem - 0
+harvestcraft:gooseberryItem - 0
+harvestcraft:apricotItem - 0
+harvestcraft:dateItem - 0
+harvestcraft:figItem - 0
+harvestcraft:grapefruitItem - 0
+harvestcraft:persimmonItem - 0
+
+
+listAllgrain
+minecraft:wheat - 0
+harvestcraft:barleyItem - 0
+harvestcraft:oatsItem - 0
+harvestcraft:ryeItem - 0
+
+
+listAllgreenveggie
+harvestcraft:asparagusItem - 0
+harvestcraft:broccoliItem - 0
+harvestcraft:celeryItem - 0
+harvestcraft:lettuceItem - 0
+harvestcraft:spiceleafItem - 0
+harvestcraft:artichokeItem - 0
+harvestcraft:brusselsproutItem - 0
+harvestcraft:cabbageItem - 0
+harvestcraft:cucumberItem - 0
+harvestcraft:okraItem - 0
+harvestcraft:peasItem - 0
+harvestcraft:seaweedItem - 0
+harvestcraft:zucchiniItem - 0
+harvestcraft:spinachItem - 0
+
+
+listAllheavycream
+harvestcraft:silkentofuItem - 0
+harvestcraft:heavycreamItem - 0
+
+
+listAllherb
+harvestcraft:garlicItem - 0
+
+
+listAllicecream
+harvestcraft:silkentofuItem - 0
+harvestcraft:icecreamItem - 0
+
+
+listAlljuice
+harvestcraft:applejuiceItem - 0
+harvestcraft:melonjuiceItem - 0
+harvestcraft:strawberryjuiceItem - 0
+harvestcraft:grapejuiceItem - 0
+harvestcraft:lemonaideItem - 0
+harvestcraft:blueberryjuiceItem - 0
+harvestcraft:cherryjuiceItem - 0
+harvestcraft:papayajuiceItem - 0
+harvestcraft:starfruitjuiceItem - 0
+harvestcraft:orangejuiceItem - 0
+harvestcraft:peachjuiceItem - 0
+harvestcraft:limejuiceItem - 0
+harvestcraft:mangojuiceItem - 0
+harvestcraft:pomegranatejuiceItem - 0
+harvestcraft:blackberryjuiceItem - 0
+harvestcraft:raspberryjuiceItem - 0
+harvestcraft:kiwijuiceItem - 0
+harvestcraft:cranberryjuiceItem - 0
+harvestcraft:cactusfruitjuiceItem - 0
+
+
+listAllmeatcooked
+minecraft:cooked_beef - 0
+minecraft:cooked_chicken - 0
+minecraft:cooked_porkchop - 0
+harvestcraft:muttoncookedItem - 0
+harvestcraft:turkeycookedItem - 0
+harvestcraft:rabbitcookedItem - 0
+harvestcraft:venisoncookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllmeatraw
+minecraft:beef - 0
+minecraft:chicken - 0
+minecraft:porkchop - 0
+harvestcraft:muttonrawItem - 0
+harvestcraft:turkeyrawItem - 0
+harvestcraft:rabbitrawItem - 0
+harvestcraft:venisonrawItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllmilk
+minecraft:milk_bucket - 0
+harvestcraft:freshmilkItem - 0
+harvestcraft:soymilkItem - 0
+VeganOption:bucketPlantMilk - 0
+
+
+listAllmushroom
+minecraft:red_mushroom - 0
+minecraft:brown_mushroom - 0
+harvestcraft:whitemushroomItem - 0
+
+
+listAllmuttoncooked
+harvestcraft:muttoncookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllmuttonraw
+harvestcraft:muttonrawItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllnut
+harvestcraft:peanutItem - 0
+harvestcraft:walnutItem - 0
+harvestcraft:almondItem - 0
+harvestcraft:cashewItem - 0
+harvestcraft:chestnutItem - 0
+harvestcraft:pecanItem - 0
+harvestcraft:pistachioItem - 0
+
+
+listAllnutbutter
+harvestcraft:peanutbutterItem - 0
+harvestcraft:almondbutterItem - 0
+harvestcraft:cashewbutterItem - 0
+harvestcraft:chestnutbutterItem - 0
+harvestcraft:pistachiobutterItem - 0
+
+
+listAllpepper
+harvestcraft:bellpepperItem - 0
+harvestcraft:chilipepperItem - 0
+
+
+listAllporkcooked
+minecraft:cooked_porkchop - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllporkraw
+minecraft:porkchop - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllrabbitcooked
+harvestcraft:rabbitcookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllrabbitraw
+harvestcraft:rabbitrawItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllrootveggie
+BiomesOPlenty:food - 11
+harvestcraft:parsnipItem - 0
+harvestcraft:radishItem - 0
+harvestcraft:rutabagaItem - 0
+harvestcraft:sweetpotatoItem - 0
+harvestcraft:turnipItem - 0
+
+
+listAllseed
+BiomesOPlenty:turnipSeeds - 0
+minecraft:wheat_seeds - 0
+minecraft:pumpkin_seeds - 0
+minecraft:melon_seeds - 0
+harvestcraft:asparagusseedItem - 0
+harvestcraft:barleyseedItem - 0
+harvestcraft:beanseedItem - 0
+harvestcraft:beetseedItem - 0
+harvestcraft:broccoliseedItem - 0
+harvestcraft:cauliflowerseedItem - 0
+harvestcraft:celeryseedItem - 0
+harvestcraft:cranberryseedItem - 0
+harvestcraft:garlicseedItem - 0
+harvestcraft:gingerseedItem - 0
+harvestcraft:leekseedItem - 0
+harvestcraft:lettuceseedItem - 0
+harvestcraft:oatsseedItem - 0
+harvestcraft:onionseedItem - 0
+harvestcraft:parsnipseedItem - 0
+harvestcraft:peanutseedItem - 0
+harvestcraft:pineappleseedItem - 0
+harvestcraft:radishseedItem - 0
+harvestcraft:ryeseedItem - 0
+harvestcraft:scallionseedItem - 0
+harvestcraft:soybeanseedItem - 0
+harvestcraft:spiceleafseedItem - 0
+harvestcraft:sunflowerseedsItem - 0
+harvestcraft:sweetpotatoseedItem - 0
+harvestcraft:teaseedItem - 0
+harvestcraft:turnipseedItem - 0
+harvestcraft:whitemushroomseedItem - 0
+harvestcraft:bellpepperseedItem - 0
+harvestcraft:blackberryseedItem - 0
+harvestcraft:blueberryseedItem - 0
+harvestcraft:cactusfruitseedItem - 0
+harvestcraft:cantaloupeseedItem - 0
+harvestcraft:chilipepperseedItem - 0
+harvestcraft:coffeeseedItem - 0
+harvestcraft:cornseedItem - 0
+harvestcraft:cucumberseedItem - 0
+harvestcraft:eggplantseedItem - 0
+harvestcraft:grapeseedItem - 0
+harvestcraft:kiwiseedItem - 0
+harvestcraft:mustardseedItem - 0
+harvestcraft:peasseedItem - 0
+harvestcraft:raspberryseedItem - 0
+harvestcraft:rhubarbseedItem - 0
+harvestcraft:seaweedseedItem - 0
+harvestcraft:strawberryseedItem - 0
+harvestcraft:tomatoseedItem - 0
+harvestcraft:wintersquashseedItem - 0
+harvestcraft:zucchiniseedItem - 0
+harvestcraft:bambooshootseedItem - 0
+harvestcraft:spinachseedItem - 0
+harvestcraft:curryleafseedItem - 0
+harvestcraft:sesameseedsseedItem - 0
+harvestcraft:waterchestnutseedItem - 0
+
+
+listAllsmoothie
+harvestcraft:melonsmoothieItem - 0
+harvestcraft:strawberrysmoothieItem - 0
+harvestcraft:lemonsmoothieItem - 0
+harvestcraft:blueberrysmoothieItem - 0
+harvestcraft:cherrysmoothieItem - 0
+harvestcraft:papayasmoothieItem - 0
+harvestcraft:starfruitsmoothieItem - 0
+harvestcraft:bananasmoothieItem - 0
+harvestcraft:orangesmoothieItem - 0
+harvestcraft:peachsmoothieItem - 0
+harvestcraft:limesmoothieItem - 0
+harvestcraft:mangosmoothieItem - 0
+harvestcraft:pomegranatesmoothieItem - 0
+harvestcraft:blackberrysmoothieItem - 0
+harvestcraft:raspberrysmoothieItem - 0
+harvestcraft:kiwismoothieItem - 0
+harvestcraft:gooseberrysmoothieItem - 0
+
+
+listAllspice
+harvestcraft:gingerItem - 0
+harvestcraft:spiceleafItem - 0
+harvestcraft:mustardseedsItem - 0
+harvestcraft:currypowderItem - 0
+
+
+listAllsugar
+minecraft:sugar - 0
+harvestcraft:honeyItem - 0
+
+
+listAllturkeycooked
+harvestcraft:turkeycookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllturkeyraw
+harvestcraft:turkeyrawItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllveggie
+BiomesOPlenty:food - 11
+minecraft:carrot - 0
+minecraft:potato - 0
+minecraft:pumpkin - 0
+harvestcraft:asparagusItem - 0
+harvestcraft:beanItem - 0
+harvestcraft:beetItem - 0
+harvestcraft:broccoliItem - 0
+harvestcraft:cauliflowerItem - 0
+harvestcraft:celeryItem - 0
+harvestcraft:leekItem - 0
+harvestcraft:lettuceItem - 0
+harvestcraft:onionItem - 0
+harvestcraft:parsnipItem - 0
+harvestcraft:radishItem - 0
+harvestcraft:rutabagaItem - 0
+harvestcraft:scallionItem - 0
+harvestcraft:soybeanItem - 0
+harvestcraft:sweetpotatoItem - 0
+harvestcraft:turnipItem - 0
+harvestcraft:whitemushroomItem - 0
+harvestcraft:artichokeItem - 0
+harvestcraft:bellpepperItem - 0
+harvestcraft:brusselsproutItem - 0
+harvestcraft:cabbageItem - 0
+harvestcraft:cornItem - 0
+harvestcraft:cucumberItem - 0
+harvestcraft:eggplantItem - 0
+harvestcraft:okraItem - 0
+harvestcraft:peasItem - 0
+harvestcraft:rhubarbItem - 0
+harvestcraft:seaweedItem - 0
+harvestcraft:tomatoItem - 0
+harvestcraft:wintersquashItem - 0
+harvestcraft:zucchiniItem - 0
+harvestcraft:bambooshootItem - 0
+harvestcraft:spinachItem - 0
+harvestcraft:waterchestnutItem - 0
+
+
+listAllvenisoncooked
+harvestcraft:venisoncookedItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllvenisonraw
+harvestcraft:venisonrawItem - 0
+harvestcraft:firmtofuItem - 0
+
+
+listAllwater
+minecraft:water_bucket - 0
+harvestcraft:freshwaterItem - 0
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+Thaumcraft:blockMagicalLog - 0
+Thaumcraft:blockMagicalLog - 1
+BiomesOPlenty:logs1 - any
+BiomesOPlenty:logs2 - any
+BiomesOPlenty:logs3 - any
+BiomesOPlenty:logs4 - any
+ExtrabiomesXL:log1 - any
+ExtrabiomesXL:log2 - any
+ExtrabiomesXL:mini_log_1 - any
+ExtrabiomesXL:cornerlog_baldcypress - any
+ExtrabiomesXL:cornerlog_rainboweucalyptus - any
+ExtrabiomesXL:cornerlog_oak - any
+ExtrabiomesXL:cornerlog_fir - any
+ExtrabiomesXL:cornerlog_redwood - any
+ExtrabiomesXL:log_elbow_baldcypress - any
+ExtrabiomesXL:log_elbow_rainbow_eucalyptus - any
+harvestcraft:pamMaple - 0
+harvestcraft:pamPaperbark - 0
+harvestcraft:pamCinnamon - 0
+dendrology:logs0 - any
+dendrology:logs1 - any
+dendrology:logs2 - any
+dendrology:logs3 - any
+
+
+manyullynRod
+TConstruct:toolRod - 12
+
+
+marble
+chisel:marble - 0
+
+
+materialBedding
+minecraft:wool - any
+VeganOption:kapok - any
+
+
+materialBeddingBlack
+minecraft:wool - 15
+VeganOption:kapok - 15
+
+
+materialBeddingBlue
+minecraft:wool - 11
+VeganOption:kapok - 11
+
+
+materialBeddingBrown
+minecraft:wool - 12
+VeganOption:kapok - 12
+
+
+materialBeddingCyan
+minecraft:wool - 9
+VeganOption:kapok - 9
+
+
+materialBeddingGray
+minecraft:wool - 7
+VeganOption:kapok - 7
+
+
+materialBeddingGreen
+minecraft:wool - 13
+VeganOption:kapok - 13
+
+
+materialBeddingLightBlue
+minecraft:wool - 3
+VeganOption:kapok - 3
+
+
+materialBeddingLightGray
+minecraft:wool - 8
+VeganOption:kapok - 8
+
+
+materialBeddingLime
+minecraft:wool - 5
+VeganOption:kapok - 5
+
+
+materialBeddingMagenta
+minecraft:wool - 2
+VeganOption:kapok - 2
+
+
+materialBeddingOrange
+minecraft:wool - 1
+VeganOption:kapok - 1
+
+
+materialBeddingPink
+minecraft:wool - 6
+VeganOption:kapok - 6
+
+
+materialBeddingPurple
+minecraft:wool - 10
+VeganOption:kapok - 10
+
+
+materialBeddingRed
+minecraft:wool - 14
+VeganOption:kapok - 14
+
+
+materialBeddingWhite
+minecraft:wool - 0
+VeganOption:kapok - 0
+
+
+materialBeddingYellow
+minecraft:wool - 4
+VeganOption:kapok - 4
+
+
+materialCloth
+harvestcraft:wovencottonItem - 0
+
+
+materialFeather
+minecraft:feather - 0
+VeganOption:fauxFeather - 0
+
+
+materialFiber
+VeganOption:juteFibre - 0
+
+
+materialFluffy
+VeganOption:kapokTuft - 0
+
+
+materialHardenedleather
+harvestcraft:hardenedleatherItem - 0
+
+
+materialHoneycomb
+harvestcraft:honeycombItem - 0
+
+
+materialLeather
+minecraft:leather - 0
+VeganOption:burlap - 0
+
+
+materialPressedwax
+GardenCore:wax - 0
+harvestcraft:waxItem - 0
+harvestcraft:beeswaxItem - 0
+VeganOption:waxVegetable - 0
+
+
+materialResin
+VeganOption:resin - 0
+
+
+materialRosin
+VeganOption:rosin - 0
+
+
+materialRotten
+minecraft:rotten_flesh - 0
+VeganOption:rottenPlants - 0
+
+
+materialWax
+GardenCore:wax - 0
+VeganOption:waxVegetable - 0
+
+
+materialWaxcomb
+harvestcraft:waxcombItem - 0
+
+
+mountainAlpineArmeria
+plantmegapack:mountainAlpineArmeria - 0
+
+
+mountainAlpineBellflower
+plantmegapack:mountainAlpineBellflower - 0
+
+
+mountainBistort
+plantmegapack:mountainBistort - 0
+
+
+mountainEdelweiss
+plantmegapack:mountainEdelweiss - 0
+
+
+mountainHouseleek
+plantmegapack:mountainHouseleek - 0
+
+
+mountainIris
+plantmegapack:mountainIris - 0
+
+
+mountainNorthernWillowherb
+plantmegapack:mountainNorthernWillowherb - 0
+
+
+mountainScarletTrumpet
+plantmegapack:mountainScarletTrumpet - 0
+
+
+mountainYellowBellflower
+plantmegapack:mountainYellowBellflower - 0
+
+
+netherrackRod
+TConstruct:toolRod - 7
+
+
+nuggetAluminium
+TConstruct:oreBerries - 4
+TConstruct:materials - 22
+
+
+nuggetAluminiumBrass
+TConstruct:materials - 24
+
+
+nuggetAluminum
+TConstruct:oreBerries - 4
+TConstruct:materials - 22
+
+
+nuggetAluminumBrass
+TConstruct:materials - 24
+
+
+nuggetAlumite
+TConstruct:materials - 32
+
+
+nuggetArdite
+TConstruct:materials - 29
+
+
+nuggetBrass
+
+
+nuggetBronze
+TConstruct:materials - 31
+
+
+nuggetCobalt
+TConstruct:materials - 28
+
+
+nuggetCopper
+Thaumcraft:ItemNugget - 1
+TConstruct:oreBerries - 2
+TConstruct:materials - 20
+
+
+nuggetElectrum
+
+
+nuggetGlue
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+Thaumcraft:ItemResource - 18
+TConstruct:oreBerries - 1
+
+
+nuggetIron
+Thaumcraft:ItemNugget - 0
+GardenStuff:iron_nugget - 0
+TConstruct:oreBerries - 0
+TConstruct:materials - 19
+
+
+nuggetLead
+Thaumcraft:ItemNugget - 4
+
+
+nuggetManyullyn
+TConstruct:materials - 30
+
+
+nuggetNaturalAluminium
+
+
+nuggetNaturalAluminum
+
+
+nuggetNickel
+
+
+nuggetObsidian
+TConstruct:materials - 27
+
+
+nuggetPigIron
+TConstruct:materials - 35
+
+
+nuggetPlatinum
+
+
+nuggetQuicksilver
+Thaumcraft:ItemResource - 3
+
+
+nuggetSilver
+Thaumcraft:ItemNugget - 3
+
+
+nuggetSteel
+TConstruct:materials - 33
+
+
+nuggetThaumium
+Thaumcraft:ItemNugget - 6
+
+
+nuggetTin
+Thaumcraft:ItemNugget - 2
+TConstruct:oreBerries - 3
+TConstruct:materials - 21
+
+
+nuggetVoid
+Thaumcraft:ItemNugget - 7
+
+
+nuggetWroughtIron
+GardenStuff:wrought_iron_nugget - 0
+
+
+nuggetZinc
+
+
+objectEgg
+minecraft:egg - 0
+VeganOption:plasticEgg - 0
+
+
+obsidianRod
+TConstruct:toolRod - 6
+
+
+oceanCommonEelgrass
+plantmegapack:oceanCommonEelgrass - 0
+
+
+oceanCoralWeed
+plantmegapack:oceanCoralWeed - 0
+
+
+oceanMozuku
+plantmegapack:oceanMozuku - 0
+
+
+oceanRockweed
+plantmegapack:oceanRockweed - 0
+
+
+oceanSeaGrapes
+plantmegapack:oceanSeaGrapes - 0
+
+
+oceanSeaLettuce
+plantmegapack:oceanSeaLettuce - 0
+
+
+oceanTangle
+plantmegapack:oceanTangle - 0
+
+
+oreAluminium
+TConstruct:SearedBrick - 5
+TConstruct:GravelOre - 4
+
+
+oreAluminum
+TConstruct:SearedBrick - 5
+TConstruct:GravelOre - 4
+
+
+oreAluminumBrass
+
+
+oreAlumite
+
+
+oreAmber
+Thaumcraft:blockCustomOre - 7
+BiomesOPlenty:gemOre - 14
+
+
+oreArdite
+TConstruct:SearedBrick - 2
+
+
+oreBronze
+
+
+oreCinnabar
+Thaumcraft:blockCustomOre - 0
+
+
+oreCoal
+minecraft:coal_ore - 0
+UndergroundBiomes:metamorphic_oreCoal - 0
+UndergroundBiomes:igneous_oreCoal - 0
+UndergroundBiomes:sedimentary_oreCoal - 0
+
+
+oreCobalt
+TConstruct:SearedBrick - 1
+TConstruct:GravelOre - 5
+
+
+oreCopper
+TConstruct:SearedBrick - 3
+TConstruct:GravelOre - 2
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+UndergroundBiomes:metamorphic_oreDiamond - 0
+UndergroundBiomes:sedimentary_oreDiamond - 0
+UndergroundBiomes:igneous_oreDiamond - 0
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+UndergroundBiomes:sedimentary_oreEmerald - 0
+UndergroundBiomes:metamorphic_oreEmerald - 0
+UndergroundBiomes:igneous_oreEmerald - 0
+
+
+oreGlue
+
+
+oreGold
+minecraft:gold_ore - 0
+TConstruct:GravelOre - 1
+UndergroundBiomes:metamorphic_oreGold - 0
+UndergroundBiomes:igneous_oreGold - 0
+UndergroundBiomes:sedimentary_oreGold - 0
+
+
+oreInfusedAir
+Thaumcraft:blockCustomOre - 1
+
+
+oreInfusedEarth
+Thaumcraft:blockCustomOre - 4
+
+
+oreInfusedEntropy
+Thaumcraft:blockCustomOre - 6
+
+
+oreInfusedFire
+Thaumcraft:blockCustomOre - 2
+
+
+oreInfusedOrder
+Thaumcraft:blockCustomOre - 5
+
+
+oreInfusedWater
+Thaumcraft:blockCustomOre - 3
+
+
+oreIron
+minecraft:iron_ore - 0
+TConstruct:GravelOre - 0
+UndergroundBiomes:igneous_oreIron - 0
+UndergroundBiomes:sedimentary_oreIron - 0
+UndergroundBiomes:metamorphic_oreIron - 0
+
+
+oreLapis
+minecraft:lapis_ore - 0
+UndergroundBiomes:metamorphic_oreLapis - 0
+UndergroundBiomes:sedimentary_oreLapis - 0
+UndergroundBiomes:igneous_oreLapis - 0
+
+
+oreLead
+
+
+oreMalachite
+BiomesOPlenty:gemOre - 10
+
+
+oreManyullyn
+
+
+oreNaturalAluminum
+
+
+oreNetherAluminum
+
+
+oreNetherAluminumBrass
+
+
+oreNetherAlumite
+
+
+oreNetherArdite
+
+
+oreNetherBronze
+
+
+oreNetherCobalt
+
+
+oreNetherCopper
+
+
+oreNetherGlue
+
+
+oreNetherGold
+
+
+oreNetherIron
+
+
+oreNetherManyullyn
+
+
+oreNetherNaturalAluminum
+
+
+oreNetherObsidian
+
+
+oreNetherPigIron
+
+
+oreNetherSteel
+
+
+oreNetherTin
+
+
+oreObsidian
+
+
+orePeridot
+BiomesOPlenty:gemOre - 4
+
+
+orePigIron
+
+
+orePoorAluminum
+
+
+orePoorAluminumBrass
+
+
+orePoorAlumite
+
+
+orePoorArdite
+
+
+orePoorBronze
+
+
+orePoorCobalt
+
+
+orePoorCopper
+
+
+orePoorGlue
+
+
+orePoorGold
+
+
+orePoorIron
+
+
+orePoorManyullyn
+
+
+orePoorNaturalAluminum
+
+
+orePoorObsidian
+
+
+orePoorPigIron
+
+
+orePoorSteel
+
+
+orePoorTin
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+UndergroundBiomes:igneous_oreRedstone - 0
+UndergroundBiomes:metamorphic_oreRedstone - 0
+UndergroundBiomes:sedimentary_oreRedstone - 0
+
+
+oreRuby
+BiomesOPlenty:gemOre - 2
+
+
+oreSalt
+
+
+oreSapphire
+BiomesOPlenty:gemOre - 12
+
+
+oreSilver
+
+
+oreSteel
+
+
+oreTanzanite
+BiomesOPlenty:gemOre - 8
+
+
+oreTin
+TConstruct:SearedBrick - 4
+TConstruct:GravelOre - 3
+
+
+oreTopaz
+BiomesOPlenty:gemOre - 6
+
+
+oreberryAluminium
+TConstruct:oreBerries - 4
+
+
+oreberryAluminum
+TConstruct:oreBerries - 4
+
+
+oreberryCopper
+TConstruct:oreBerries - 2
+
+
+oreberryEssence
+TConstruct:oreBerries - 1
+
+
+oreberryGold
+TConstruct:oreBerries - 1
+
+
+oreberryIron
+TConstruct:oreBerries - 0
+
+
+oreberryTin
+TConstruct:oreBerries - 3
+
+
+orebushAluminium
+TConstruct:ore.berries.two - 0
+
+
+orebushAluminum
+TConstruct:ore.berries.two - 0
+
+
+orebushCopper
+TConstruct:ore.berries.one - 2
+
+
+orebushEssence
+TConstruct:ore.berries.two - 1
+
+
+orebushGold
+TConstruct:ore.berries.one - 1
+
+
+orebushIron
+TConstruct:ore.berries.one - 0
+
+
+orebushTin
+TConstruct:ore.berries.one - 3
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paperRod
+TConstruct:toolRod - 9
+
+
+pigmentBlack
+minecraft:coal - 1
+
+
+pigmentWhite
+minecraft:quartz - 0
+
+
+plainsPrairieBrome
+plantmegapack:plainsPrairieBrome - 0
+
+
+plainsPrairieSage
+plantmegapack:plainsPrairieSage - 0
+
+
+plainsReedCanaryGrass
+plantmegapack:plainsReedCanaryGrass - 0
+
+
+plainsShortrayFleabane
+plantmegapack:plainsShortrayFleabane - 0
+
+
+plainsSmallPasqueFlower
+plantmegapack:plainsSmallPasqueFlower - 0
+
+
+plainsSmoothAster
+plantmegapack:plainsSmoothAster - 0
+
+
+plainsThreeFloweredAvens
+plantmegapack:plainsThreeFloweredAvens - 0
+
+
+plankWood
+minecraft:planks - any
+Thaumcraft:blockWoodenDevice - 6
+Thaumcraft:blockWoodenDevice - 7
+dendrology:acemus_planks - any
+dendrology:cedrum_planks - any
+dendrology:cerasu_planks - any
+dendrology:delnas_planks - any
+dendrology:ewcaly_planks - any
+dendrology:hekur_planks - any
+dendrology:kiparis_planks - any
+dendrology:kulist_planks - any
+dendrology:lata_planks - any
+dendrology:nucis_planks - any
+dendrology:porffor_planks - any
+dendrology:salyx_planks - any
+dendrology:tuopa_planks - any
+BiomesOPlenty:planks - any
+ExtrabiomesXL:planks - any
+dendrology:wood0 - any
+
+
+poleBambooAsper
+plantmegapack:bambooAsperPole - 0
+
+
+poleBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaPole - 0
+
+
+poleBambooGiantTimber
+plantmegapack:bambooGiantTimberPole - 0
+
+
+poleBambooGolden
+plantmegapack:bambooGoldenPole - 0
+
+
+poleBambooMoso
+plantmegapack:bambooMosoPole - 0
+
+
+poleBambooShortTassled
+plantmegapack:bambooShortTassledPole - 0
+
+
+poleBambooTimorBlack
+plantmegapack:bambooTimorBlackPole - 0
+
+
+poleBambooTropicalBlue
+plantmegapack:bambooTropicalBluePole - 0
+
+
+poleBambooWetForest
+plantmegapack:bambooWetForestPole - 0
+
+
+presserOil
+minecraft:heavy_weighted_pressure_plate - 0
+harvestcraft:juicerItem - 0
+
+
+pulpWood
+
+
+quicksilver
+Thaumcraft:ItemResource - 3
+
+
+reagentFermented
+minecraft:fermented_spider_eye - 0
+VeganOption:falseMorelFermented - 0
+
+
+reagentPoisonous
+minecraft:spider_eye - 0
+VeganOption:falseMorel - 0
+VeganOption:dollsEye - 0
+
+
+reagentTear
+minecraft:ghast_tear - 0
+VeganOption:sufferingProof - 0
+
+
+reagentWaterBreathing
+minecraft:fish - 3
+VeganOption:frozenBubble - 0
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+
+
+redstoneCrystal
+BuildCraft|Silicon:redstoneCrystal - 0
+
+
+reedTypha
+ExtrabiomesXL:plants4 - 0
+
+
+resin
+VeganOption:resin - 0
+
+
+riverAmazonSword
+plantmegapack:riverAmazonSword - 0
+
+
+riverCanadianWaterweed
+plantmegapack:riverCanadianWaterweed - 0
+
+
+riverCoonsTail
+plantmegapack:riverCoonsTail - 0
+
+
+riverEelgrass
+plantmegapack:riverEelgrass - 0
+
+
+riverWaterWisteria
+plantmegapack:riverWaterWisteria - 0
+
+
+riverWrightsWaternymph
+plantmegapack:riverWrightsWaternymph - 0
+
+
+rodAlumite
+TConstruct:toolRod - 15
+
+
+rodArdite
+TConstruct:toolRod - 11
+
+
+rodBlueslime
+TConstruct:toolRod - 17
+
+
+rodBone
+TConstruct:toolRod - 5
+
+
+rodBronze
+TConstruct:toolRod - 14
+
+
+rodCactus
+TConstruct:toolRod - 4
+
+
+rodCobalt
+TConstruct:toolRod - 10
+
+
+rodCopper
+TConstruct:toolRod - 13
+
+
+rodFlint
+TConstruct:toolRod - 3
+
+
+rodIron
+TConstruct:toolRod - 2
+
+
+rodManyullyn
+TConstruct:toolRod - 12
+
+
+rodNetherrack
+TConstruct:toolRod - 7
+
+
+rodObsidian
+TConstruct:toolRod - 6
+
+
+rodPaper
+TConstruct:toolRod - 9
+
+
+rodSlime
+TConstruct:toolRod - 8
+
+
+rodSteel
+TConstruct:toolRod - 16
+
+
+rodStone
+TConstruct:toolRod - 1
+
+
+rodWood
+TConstruct:toolRod - 0
+
+
+rosin
+VeganOption:rosin - 0
+
+
+salmonRaw
+minecraft:fish - 0
+
+
+sand
+minecraft:sand - any
+
+
+sandCracked
+ExtrabiomesXL:terrain_blocks2 - 0
+
+
+sandstone
+minecraft:sandstone - any
+
+
+savannaButterflyWeed
+plantmegapack:savannaButterflyWeed - 0
+
+
+savannaHoaryVervain
+plantmegapack:savannaHoaryVervain - 0
+
+
+savannaLeadplant
+plantmegapack:savannaLeadplant - 0
+
+
+savannaMarcela
+plantmegapack:savannaMarcela - 0
+
+
+savannaNorthernBedstraw
+plantmegapack:savannaNorthernBedstraw - 0
+
+
+savannaPiersonsMilkVetch
+plantmegapack:savannaPiersonsMilkVetch - 0
+
+
+savannaPropellerPlant
+plantmegapack:savannaPropellerPlant - 0
+
+
+savannaShonaCabbage
+plantmegapack:savannaShonaCabbage - 0
+
+
+savannaTexasTickseed
+plantmegapack:savannaTexasTickseed - 0
+
+
+seedArtichoke
+harvestcraft:artichokeseedItem - 0
+
+
+seedAsparagus
+harvestcraft:asparagusseedItem - 0
+
+
+seedBambooshoot
+harvestcraft:bambooshootseedItem - 0
+
+
+seedBarley
+harvestcraft:barleyseedItem - 0
+
+
+seedBean
+harvestcraft:beanseedItem - 0
+
+
+seedBeet
+harvestcraft:beetseedItem - 0
+
+
+seedBellpepper
+harvestcraft:bellpepperseedItem - 0
+
+
+seedBlackberry
+harvestcraft:blackberryseedItem - 0
+
+
+seedBlueberry
+harvestcraft:blueberryseedItem - 0
+
+
+seedBroccoli
+harvestcraft:broccoliseedItem - 0
+
+
+seedBrusselsprout
+harvestcraft:brusselsproutseedItem - 0
+
+
+seedCabbage
+harvestcraft:cabbageseedItem - 0
+
+
+seedCactusfruit
+harvestcraft:cactusfruitseedItem - 0
+
+
+seedCandleberry
+harvestcraft:candleberryseedItem - 0
+
+
+seedCantaloupe
+harvestcraft:cantaloupeseedItem - 0
+
+
+seedCauliflower
+harvestcraft:cauliflowerseedItem - 0
+
+
+seedCelery
+harvestcraft:celeryseedItem - 0
+
+
+seedChilipepper
+harvestcraft:chilipepperseedItem - 0
+
+
+seedCoffee
+harvestcraft:coffeeseedItem - 0
+
+
+seedCorn
+harvestcraft:cornseedItem - 0
+
+
+seedCotton
+harvestcraft:cottonseedItem - 0
+
+
+seedCranberry
+harvestcraft:cranberryseedItem - 0
+
+
+seedCucumber
+harvestcraft:cucumberseedItem - 0
+
+
+seedCurryleaf
+harvestcraft:curryleafseedItem - 0
+
+
+seedEggplant
+harvestcraft:eggplantseedItem - 0
+
+
+seedGarlic
+harvestcraft:garlicseedItem - 0
+
+
+seedGinger
+harvestcraft:gingerseedItem - 0
+
+
+seedGrape
+harvestcraft:grapeseedItem - 0
+
+
+seedKiwi
+harvestcraft:kiwiseedItem - 0
+
+
+seedLeek
+harvestcraft:leekseedItem - 0
+
+
+seedLettuce
+harvestcraft:lettuceseedItem - 0
+
+
+seedMustard
+harvestcraft:mustardseedItem - 0
+
+
+seedOats
+harvestcraft:oatsseedItem - 0
+
+
+seedOkra
+harvestcraft:okraseedItem - 0
+
+
+seedOnion
+harvestcraft:onionseedItem - 0
+
+
+seedParsnip
+harvestcraft:parsnipseedItem - 0
+
+
+seedPeanut
+harvestcraft:peanutseedItem - 0
+
+
+seedPeas
+harvestcraft:peasseedItem - 0
+
+
+seedPineapple
+harvestcraft:pineappleseedItem - 0
+
+
+seedRadish
+harvestcraft:radishseedItem - 0
+
+
+seedRaspberry
+harvestcraft:raspberryseedItem - 0
+
+
+seedRhubarb
+harvestcraft:rhubarbseedItem - 0
+
+
+seedRice
+harvestcraft:riceseedItem - 0
+
+
+seedRutabaga
+harvestcraft:rutabagaseedItem - 0
+
+
+seedRye
+harvestcraft:ryeseedItem - 0
+
+
+seedScallion
+harvestcraft:scallionseedItem - 0
+
+
+seedSeaweed
+harvestcraft:seaweedseedItem - 0
+
+
+seedSesameseed
+harvestcraft:sesameseedsseedItem - 0
+
+
+seedSoybean
+harvestcraft:soybeanseedItem - 0
+
+
+seedSpiceleaf
+harvestcraft:spiceleafseedItem - 0
+
+
+seedSpinach
+harvestcraft:spinachseedItem - 0
+
+
+seedStrawberry
+harvestcraft:strawberryseedItem - 0
+
+
+seedSweetpotato
+harvestcraft:sweetpotatoseedItem - 0
+
+
+seedTea
+harvestcraft:teaseedItem - 0
+
+
+seedTomato
+harvestcraft:tomatoseedItem - 0
+
+
+seedTurnip
+BiomesOPlenty:turnipSeeds - 0
+harvestcraft:turnipseedItem - 0
+
+
+seedWaterchestnut
+harvestcraft:waterchestnutseedItem - 0
+
+
+seedWhitemushroom
+harvestcraft:whitemushroomseedItem - 0
+
+
+seedWintersquash
+harvestcraft:wintersquashseedItem - 0
+
+
+seedZucchini
+harvestcraft:zucchiniseedItem - 0
+
+
+shardAir
+Thaumcraft:ItemShard - 0
+
+
+shardEarth
+Thaumcraft:ItemShard - 3
+
+
+shardEntropy
+Thaumcraft:ItemShard - 5
+
+
+shardFire
+Thaumcraft:ItemShard - 1
+
+
+shardOrder
+Thaumcraft:ItemShard - 4
+
+
+shardWater
+Thaumcraft:ItemShard - 2
+
+
+sheetPlastic
+VeganOption:bioplastic - 0
+
+
+shrubAlpineCurrant
+plantmegapack:shrubAlpineCurrant - 0
+
+
+shrubBarberry
+plantmegapack:shrubBarberry - 0
+
+
+shrubBoxwood
+plantmegapack:shrubBoxwood - 0
+
+
+shrubButterfly
+plantmegapack:shrubButterfly - 0
+
+
+shrubCanyonCreekAbelia
+plantmegapack:shrubCanyonCreekAbelia - 0
+
+
+shrubCapeJasmine
+plantmegapack:shrubCapeJasmine - 0
+
+
+shrubCedarCylinder
+plantmegapack:shrubCedarCylinder - 0
+
+
+shrubCedarGlobe
+plantmegapack:shrubCedarGlobe - 0
+
+
+shrubCedarPyramid
+plantmegapack:shrubCedarPyramid - 0
+
+
+shrubCypressGreen
+plantmegapack:shrubCypressGreen - 0
+
+
+shrubCypressYellow
+plantmegapack:shrubCypressYellow - 0
+
+
+shrubDaphne
+plantmegapack:shrubDaphne - 0
+
+
+shrubDwarfElder
+plantmegapack:shrubDwarfElder - 0
+
+
+shrubHolly
+plantmegapack:shrubHolly - 0
+
+
+shrubHummingbirdBush
+plantmegapack:shrubHummingbirdBush - 0
+
+
+shrubJuniperSavin
+plantmegapack:shrubJuniperSavin - 0
+
+
+shrubKerria
+plantmegapack:shrubKerria - 0
+
+
+shrubLavender
+plantmegapack:shrubLavender - 0
+
+
+shrubLindera
+plantmegapack:shrubLindera - 0
+
+
+shrubMeadowsweet
+plantmegapack:shrubMeadowsweet - 0
+
+
+shrubMottlecah
+plantmegapack:shrubMottlecah - 0
+
+
+shrubNinebark
+plantmegapack:shrubNinebark - 0
+
+
+shrubSargentViburnum
+plantmegapack:shrubSargentViburnum - 0
+
+
+shrubSpicebush
+plantmegapack:shrubSpicebush - 0
+
+
+shrubWeepingForsythia
+plantmegapack:shrubWeepingForsythia - 0
+
+
+shrubWinterberry
+plantmegapack:shrubWinterberry - 0
+
+
+shrubWolfWillow
+plantmegapack:shrubWolfWillow - 0
+
+
+slabCloth
+TConstruct:WoolSlab1 - any
+TConstruct:WoolSlab2 - any
+
+
+slabWood
+minecraft:wooden_slab - any
+Thaumcraft:blockCosmeticSlabWood - 0
+Thaumcraft:blockCosmeticSlabWood - 1
+BiomesOPlenty:woodenSingleSlab1 - any
+BiomesOPlenty:woodenSingleSlab2 - any
+ExtrabiomesXL:woodslab2 - any
+ExtrabiomesXL:woodslab - any
+dendrology:sslab0 - any
+dendrology:sslab1 - any
+
+
+slimeRod
+TConstruct:toolRod - 8
+
+
+slimeball
+minecraft:slime_ball - 0
+TConstruct:strangeFood - 0
+TConstruct:strangeFood - 1
+TConstruct:materials - 36
+VeganOption:resin - 0
+
+
+soap
+VeganOption:soap - any
+
+
+sourcePlantMilk
+minecraft:pumpkin_seeds - 0
+harvestcraft:soybeanItem - 0
+harvestcraft:coconutItem - 0
+harvestcraft:almondItem - 0
+harvestcraft:riceItem - 0
+plantmegapack:cropRice - 0
+harvestcraft:oatsItem - 0
+
+
+sourceVegetableOil
+VeganOption:kapokTuft - 0
+harvestcraft:sunflowerseedsItem - 0
+VeganOption:seedSunflower - 0
+BiomesOPlenty:food - 3
+harvestcraft:grapeseedItem - 0
+harvestcraft:soybeanItem - 0
+harvestcraft:cottonseedItem - 0
+harvestcraft:coconutItem - 0
+harvestcraft:oliveItem - 0
+harvestcraft:cornItem - 0
+plantmegapack:cropCorn - 0
+harvestcraft:peanutItem - 0
+harvestcraft:walnutItem - 0
+harvestcraft:almondItem - 0
+harvestcraft:cashewItem - 0
+harvestcraft:chestnutItem - 0
+harvestcraft:pecanItem - 0
+harvestcraft:pistachioItem - 0
+harvestcraft:teaseedItem - 0
+harvestcraft:avocadoItem - 0
+
+
+stainedClayBlack
+minecraft:stained_hardened_clay - 15
+
+
+stainedClayBlue
+minecraft:stained_hardened_clay - 11
+
+
+stainedClayBrown
+minecraft:stained_hardened_clay - 12
+
+
+stainedClayCyan
+minecraft:stained_hardened_clay - 9
+
+
+stainedClayGray
+minecraft:stained_hardened_clay - 7
+
+
+stainedClayGreen
+minecraft:stained_hardened_clay - 13
+
+
+stainedClayLightBlue
+minecraft:stained_hardened_clay - 3
+
+
+stainedClayLightGray
+minecraft:stained_hardened_clay - 8
+
+
+stainedClayLime
+minecraft:stained_hardened_clay - 5
+
+
+stainedClayMagenta
+minecraft:stained_hardened_clay - 2
+
+
+stainedClayOrange
+minecraft:stained_hardened_clay - 1
+
+
+stainedClayPink
+minecraft:stained_hardened_clay - 6
+
+
+stainedClayPurple
+minecraft:stained_hardened_clay - 10
+
+
+stainedClayRed
+minecraft:stained_hardened_clay - 14
+
+
+stainedClayWhite
+minecraft:stained_hardened_clay - 0
+
+
+stainedClayYellow
+minecraft:stained_hardened_clay - 4
+
+
+stainedGlassBlack
+minecraft:stained_glass - 15
+
+
+stainedGlassBlue
+minecraft:stained_glass - 11
+
+
+stainedGlassBrown
+minecraft:stained_glass - 12
+
+
+stainedGlassCyan
+minecraft:stained_glass - 9
+
+
+stainedGlassGray
+minecraft:stained_glass - 7
+
+
+stainedGlassGreen
+minecraft:stained_glass - 13
+
+
+stainedGlassLightBlue
+minecraft:stained_glass - 3
+
+
+stainedGlassLightGray
+minecraft:stained_glass - 8
+
+
+stainedGlassLime
+minecraft:stained_glass - 5
+
+
+stainedGlassMagenta
+minecraft:stained_glass - 2
+
+
+stainedGlassOrange
+minecraft:stained_glass - 1
+
+
+stainedGlassPaneBlack
+minecraft:stained_glass_pane - 15
+
+
+stainedGlassPaneBlue
+minecraft:stained_glass_pane - 11
+
+
+stainedGlassPaneBrown
+minecraft:stained_glass_pane - 12
+
+
+stainedGlassPaneCyan
+minecraft:stained_glass_pane - 9
+
+
+stainedGlassPaneGray
+minecraft:stained_glass_pane - 7
+
+
+stainedGlassPaneGreen
+minecraft:stained_glass_pane - 13
+
+
+stainedGlassPaneLightBlue
+minecraft:stained_glass_pane - 3
+
+
+stainedGlassPaneLightGray
+minecraft:stained_glass_pane - 8
+
+
+stainedGlassPaneLime
+minecraft:stained_glass_pane - 5
+
+
+stainedGlassPaneMagenta
+minecraft:stained_glass_pane - 2
+
+
+stainedGlassPaneOrange
+minecraft:stained_glass_pane - 1
+
+
+stainedGlassPanePink
+minecraft:stained_glass_pane - 6
+
+
+stainedGlassPanePurple
+minecraft:stained_glass_pane - 10
+
+
+stainedGlassPaneRed
+minecraft:stained_glass_pane - 14
+
+
+stainedGlassPaneWhite
+minecraft:stained_glass_pane - 0
+
+
+stainedGlassPaneYellow
+minecraft:stained_glass_pane - 4
+
+
+stainedGlassPink
+minecraft:stained_glass - 6
+
+
+stainedGlassPurple
+minecraft:stained_glass - 10
+
+
+stainedGlassRed
+minecraft:stained_glass - 14
+
+
+stainedGlassWhite
+minecraft:stained_glass - 0
+
+
+stainedGlassYellow
+minecraft:stained_glass - 4
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+BiomesOPlenty:redwoodStairs - 0
+BiomesOPlenty:willowStairs - 0
+BiomesOPlenty:sacredoakStairs - 0
+BiomesOPlenty:firStairs - 0
+BiomesOPlenty:cherryStairs - 0
+BiomesOPlenty:darkStairs - 0
+BiomesOPlenty:magicStairs - 0
+BiomesOPlenty:palmStairs - 0
+BiomesOPlenty:mangroveStairs - 0
+BiomesOPlenty:etherealStairs - 0
+BiomesOPlenty:pineStairs - 0
+BiomesOPlenty:hellBarkStairs - 0
+BiomesOPlenty:jacarandaStairs - 0
+BiomesOPlenty:mahoganyStairs - 0
+ExtrabiomesXL:stairs.redwood - 0
+ExtrabiomesXL:stairs.fir - 0
+ExtrabiomesXL:stairs.acacia - 0
+ExtrabiomesXL:stairs.rainboweucalyptus - 0
+ExtrabiomesXL:stairs.cypress - 0
+ExtrabiomesXL:stairs.baldcypress - 0
+ExtrabiomesXL:stairs.japanesemaple - 0
+ExtrabiomesXL:stairs.autumn - 0
+ExtrabiomesXL:stairs.sakurablossom - 0
+dendrology:stairs0 - 0
+dendrology:stairs1 - 0
+dendrology:stairs2 - 0
+dendrology:stairs3 - 0
+dendrology:stairs4 - 0
+dendrology:stairs5 - 0
+dendrology:stairs6 - 0
+dendrology:stairs7 - 0
+dendrology:stairs8 - 0
+dendrology:stairs9 - 0
+dendrology:stairs10 - 0
+dendrology:stairs11 - 0
+dendrology:stairs12 - 0
+
+
+stairsBambooAsper
+plantmegapack:bambooAsperStairs - 0
+
+
+stairsBambooFargesiaRobusta
+plantmegapack:bambooFargesiaRobustaStairs - 0
+
+
+stairsBambooGiantTimber
+plantmegapack:bambooGiantTimberStairs - 0
+
+
+stairsBambooGolden
+plantmegapack:bambooGoldenStairs - 0
+
+
+stairsBambooMoso
+plantmegapack:bambooMosoStairs - 0
+
+
+stairsBambooShortTassled
+plantmegapack:bambooShortTassledStairs - 0
+
+
+stairsBambooTimorBlack
+plantmegapack:bambooTimorBlackStairs - 0
+
+
+stairsBambooTropicalBlue
+plantmegapack:bambooTropicalBlueStairs - 0
+
+
+stairsBambooWetForest
+plantmegapack:bambooWetForestStairs - 0
+
+
+starch
+VeganOption:potatoStarch - 0
+
+
+steelRod
+TConstruct:toolRod - 16
+
+
+stickPlastic
+VeganOption:plasticRod - 0
+TConstruct:toolRod - 1000
+
+
+stickWood
+minecraft:stick - 0
+BiomesOPlenty:bamboo - 0
+BiomesOPlenty:plants - 8
+
+
+stone
+minecraft:stone - 0
+UndergroundBiomes:igneousStone - any
+UndergroundBiomes:metamorphicStone - any
+UndergroundBiomes:sedimentaryStone - any
+minecraft:stone - any
+
+
+stoneAndesite
+chisel:andesite - 0
+
+
+stoneBricks
+UndergroundBiomes:igneousStoneBrick - any
+UndergroundBiomes:metamorphicStoneBrick - any
+minecraft:stonebrick - any
+
+
+stoneDiorite
+chisel:diorite - 0
+
+
+stoneGranite
+chisel:granite - 0
+
+
+stoneMossy
+minecraft:stonebrick - 1
+minecraft:mossy_cobblestone - 0
+
+
+stoneRod
+TConstruct:toolRod - 1
+
+
+thaumiumRod
+TConstruct:toolRod - 31
+
+
+toolBakeware
+harvestcraft:bakewareItem - 0
+
+
+toolCuttingboard
+harvestcraft:cuttingboardItem - 0
+
+
+toolJuicer
+harvestcraft:juicerItem - 0
+
+
+toolMixingbowl
+harvestcraft:mixingbowlItem - 0
+
+
+toolMortarandpPestle
+
+
+toolMortarandpestle
+harvestcraft:mortarandpestleItem - 0
+
+
+toolPot
+harvestcraft:potItem - 0
+
+
+toolSaucepan
+harvestcraft:saucepanItem - 0
+
+
+toolSkillet
+harvestcraft:skilletItem - 0
+
+
+torchStone
+TConstruct:decoration.stonetorch - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+BiomesOPlenty:colorizedLeaves1 - any
+BiomesOPlenty:colorizedLeaves2 - any
+BiomesOPlenty:leaves1 - any
+BiomesOPlenty:leaves2 - any
+BiomesOPlenty:leaves3 - any
+BiomesOPlenty:leaves4 - any
+BiomesOPlenty:appleLeaves - any
+BiomesOPlenty:persimmonLeaves - any
+ExtrabiomesXL:leaves_1 - any
+ExtrabiomesXL:leaves_4 - any
+ExtrabiomesXL:leaves_2 - any
+ExtrabiomesXL:leaves_3 - any
+dendrology:leaves0 - any
+dendrology:leaves1 - any
+dendrology:leaves2 - any
+dendrology:leaves3 - any
+
+
+treeSapling
+minecraft:sapling - any
+Thaumcraft:blockCustomPlant - 0
+Thaumcraft:blockCustomPlant - 1
+BiomesOPlenty:saplings - any
+BiomesOPlenty:colorizedSaplings - any
+ExtrabiomesXL:saplings_1 - any
+ExtrabiomesXL:saplings_2 - any
+dendrology:sapling0 - any
+dendrology:sapling1 - any
+
+
+treeWood
+
+
+tyrian
+chisel:tyrian - 0
+
+
+veggieBait
+harvestcraft:veggiebaitItem - 0
+
+
+vineFlowersBlue
+plantmegapack:vineFlowersBlue - 0
+
+
+vineFlowersBurgundy
+plantmegapack:vineFlowersBurgundy - 0
+
+
+vineFlowersCoral
+plantmegapack:vineFlowersCoral - 0
+
+
+vineFlowersCyan
+plantmegapack:vineFlowersCyan - 0
+
+
+vineFlowersGreen
+plantmegapack:vineFlowersGreen - 0
+
+
+vineFlowersMagenta
+plantmegapack:vineFlowersMagenta - 0
+
+
+vineFlowersOrange
+plantmegapack:vineFlowersOrange - 0
+
+
+vineFlowersPink
+plantmegapack:vineFlowersPink - 0
+
+
+vineFlowersPurple
+plantmegapack:vineFlowersPurple - 0
+
+
+vineFlowersRed
+plantmegapack:vineFlowersRed - 0
+
+
+vineFlowersRoyal
+plantmegapack:vineFlowersRoyal - 0
+
+
+vineFlowersWhite
+plantmegapack:vineFlowersWhite - 0
+
+
+vineFlowersYellow
+plantmegapack:vineFlowersYellow - 0
+
+
+vineJapaneseIvy
+plantmegapack:vineJapaneseIvy - 0
+
+
+vineSilverveinCreeper
+plantmegapack:vineSilverveinCreeper - 0
+
+
+vineSpanishMoss
+plantmegapack:vineSpanishMoss - 0
+
+
+vineSwedishIvy
+plantmegapack:vineSwedishIvy - 0
+
+
+vineVariegatedPersianIvy
+plantmegapack:vineVariegatedPersianIvy - 0
+
+
+wallBracketBambooAsper
+plantmegapack:wallBracketBambooAsper - 0
+
+
+wallBracketBambooFargesiaRobusta
+plantmegapack:wallBracketBambooFargesiaRobusta - 0
+
+
+wallBracketBambooGiantTimber
+plantmegapack:wallBracketBambooGiantTimber - 0
+
+
+wallBracketBambooGolden
+plantmegapack:wallBracketBambooGolden - 0
+
+
+wallBracketBambooMoso
+plantmegapack:wallBracketBambooMoso - 0
+
+
+wallBracketBambooShortTassled
+plantmegapack:wallBracketBambooShortTassled - 0
+
+
+wallBracketBambooTimorBlack
+plantmegapack:wallBracketBambooTimorBlack - 0
+
+
+wallBracketBambooTropicalBlue
+plantmegapack:wallBracketBambooTropicalBlue - 0
+
+
+wallBracketBambooWetForest
+plantmegapack:wallBracketBambooWetForest - 0
+
+
+wallBracketGoldCurl
+plantmegapack:wallBracketGoldCurl - 0
+
+
+wallBracketIronCurl
+plantmegapack:wallBracketIronCurl - 0
+
+
+wallBracketStone
+plantmegapack:wallBracketStone - 0
+
+
+wallBracketWoodAcacia
+plantmegapack:wallBracketWoodAcacia - 0
+
+
+wallBracketWoodBirch
+plantmegapack:wallBracketWoodBirch - 0
+
+
+wallBracketWoodDarkOak
+plantmegapack:wallBracketWoodDarkOak - 0
+
+
+wallBracketWoodJungle
+plantmegapack:wallBracketWoodJungle - 0
+
+
+wallBracketWoodOak
+plantmegapack:wallBracketWoodOak - 0
+
+
+wallBracketWoodSpruce
+plantmegapack:wallBracketWoodSpruce - 0
+
+
+waterBambooCoralYEL
+plantmegapack:waterBambooCoralYEL - 0
+
+
+waterCryptWendtii
+plantmegapack:waterCryptWendtii - 0
+
+
+waterDwarfHairGrass
+plantmegapack:waterDwarfHairGrass - 0
+
+
+waterKelpGiantGRN
+plantmegapack:waterKelpGiantGRN - 0
+
+
+waterKelpGiantYEL
+plantmegapack:waterKelpGiantYEL - 0
+
+
+waterMondoGrass
+plantmegapack:waterMondoGrass - 0
+
+
+waterPulsingXenia
+plantmegapack:waterPulsingXenia - 0
+
+
+waterPurpleSeaWhip
+plantmegapack:waterPurpleSeaWhip - 0
+
+
+waterRedSeaFan
+plantmegapack:waterRedSeaFan - 0
+
+
+wetlandsCattails
+plantmegapack:wetlandsCattails - 0
+
+
+wetlandsClubrush
+plantmegapack:wetlandsClubrush - 0
+
+
+wetlandsCommonRush
+plantmegapack:wetlandsCommonRush - 0
+
+
+wetlandsFloweringRush
+plantmegapack:wetlandsFloweringRush - 0
+
+
+wetlandsPickerelweed
+plantmegapack:wetlandsPickerelweed - 0
+
+
+wetlandsReedMannagrass
+plantmegapack:wetlandsReedMannagrass - 0
+
+
+wetlandsSwampMilkweed
+plantmegapack:wetlandsSwampMilkweed - 0
+
+
+wetlandsWaterHorsetail
+plantmegapack:wetlandsWaterHorsetail - 0
+
+
+wetlandsWhiteTurtlehead
+plantmegapack:wetlandsWhiteTurtlehead - 0
+
+
+woodRod
+TConstruct:toolRod - 0
+
+

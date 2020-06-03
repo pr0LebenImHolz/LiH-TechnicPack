@@ -1,0 +1,210 @@
+## Entity IDs ##
+Angler
+Arrow
+Bat
+BiblioCraft.SeatEntity
+BiomesOPlenty.Bird
+BiomesOPlenty.Glob
+BiomesOPlenty.JungleSpider
+BiomesOPlenty.Phantom
+BiomesOPlenty.Pixie
+BiomesOPlenty.Rosester
+BiomesOPlenty.Wasp
+BiomesOPlenty.dart
+BiomesOPlenty.mudball
+Bird
+Blaze
+Boat
+BuildCraft|Robotics.bcRobot
+BuildCraft|Silicon.bcPackageThrowable
+Butterfly
+CarpentersBlocks.CarpentersTile
+CaveSpider
+Centipede
+Chicken
+Cow
+Creeper
+Cricket
+Duck
+EnderCrystal
+EnderDragon
+Enderman
+EntityHorse
+ExtrabiomesXL.scarecrow
+EyeOfEnderSignal
+FakeChairEntity
+FallingSand
+Fireball
+FireworksRocketEntity
+Fish
+Ghast
+Giant
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+Lizard
+MantaRay
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+Mob
+Monster
+Moth
+Mouse
+MushroomCow
+Ozelot
+Painting
+Pig
+PigZombie
+Pinguin
+Piranha
+PrimedTnt
+Shark
+Sheep
+Silverfish
+Skeleton
+Slime
+SmallFireball
+Snake
+SnowMan
+Snowball
+Spider
+Squid
+TConstruct.Arrow
+TConstruct.Bolt
+TConstruct.Crystal
+TConstruct.Dagger
+TConstruct.EdibleSlime
+TConstruct.Fancy Item
+TConstruct.Javelin
+TConstruct.KingSlime
+TConstruct.LandmineFirework
+TConstruct.Launched Potion
+TConstruct.Shuriken
+TConstruct.SlimeExplosive
+TConstruct.ThrowingKnife
+Thaumcraft.Alumentum
+Thaumcraft.AspectOrb
+Thaumcraft.BottleTaint
+Thaumcraft.BrainyZombie
+Thaumcraft.CultistCleric
+Thaumcraft.CultistKnight
+Thaumcraft.CultistLeader
+Thaumcraft.CultistPortal
+Thaumcraft.Dart
+Thaumcraft.EldritchCrab
+Thaumcraft.EldritchGolem
+Thaumcraft.EldritchGuardian
+Thaumcraft.EldritchOrb
+Thaumcraft.EldritchWarden
+Thaumcraft.Ember
+Thaumcraft.ExplosiveOrb
+Thaumcraft.FallingTaint
+Thaumcraft.Firebat
+Thaumcraft.FollowItem
+Thaumcraft.FrostShard
+Thaumcraft.GiantBrainyZombie
+Thaumcraft.Golem
+Thaumcraft.GolemBobber
+Thaumcraft.GolemOrb
+Thaumcraft.InhabitedZombie
+Thaumcraft.MindSpider
+Thaumcraft.Pech
+Thaumcraft.PechBlast
+Thaumcraft.PermanentItem
+Thaumcraft.PrimalArrow
+Thaumcraft.PrimalOrb
+Thaumcraft.ShockOrb
+Thaumcraft.SpecialItem
+Thaumcraft.SpecialItemGrate
+Thaumcraft.TaintSpider
+Thaumcraft.TaintSpore
+Thaumcraft.TaintSwarm
+Thaumcraft.TaintSwarmer
+Thaumcraft.Taintacle
+Thaumcraft.TaintacleGiant
+Thaumcraft.TaintacleTiny
+Thaumcraft.TaintedChicken
+Thaumcraft.TaintedCow
+Thaumcraft.TaintedCreeper
+Thaumcraft.TaintedPig
+Thaumcraft.TaintedSheep
+Thaumcraft.TaintedVillager
+Thaumcraft.ThaumSlime
+Thaumcraft.TravelingTrunk
+Thaumcraft.Wisp
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+TropicalFish
+VeganOption.bubble
+VeganOption.plasticEgg
+Villager
+VillagerGolem
+Whale
+Witch
+WitherBoss
+WitherSkull
+Wolf
+XPOrb
+Zombie
+chisel.BallOMoss
+chisel.CloudInABottle
+chisel.SmashingRock
+chisel.snowman
+lootplusplus.Label
+lootplusplus.ThrownItem
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+4 - Centipede
+5 - Cricket
+6 - Butterfly
+7 - Moth
+23 - Fish
+24 - TropicalFish
+25 - Angler
+26 - MantaRay
+27 - Whale
+28 - Snake
+29 - Lizard
+30 - Mouse
+31 - Bird
+32 - Duck
+33 - Pinguin
+34 - Piranha
+35 - Shark
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+98 - Ozelot
+100 - EntityHorse
+120 - Villager
+301 - BiomesOPlenty.JungleSpider
+302 - BiomesOPlenty.Rosester
+303 - BiomesOPlenty.Glob
+304 - BiomesOPlenty.Phantom
+305 - BiomesOPlenty.Wasp
+306 - BiomesOPlenty.Bird
+307 - BiomesOPlenty.Pixie
